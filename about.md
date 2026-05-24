@@ -1,4 +1,4 @@
-# The Reality of PRRT2
+# About
 
 My name is Sean. I have a confirmed PRRT2 gene mutation — discovered later in life after decades of searching for answers.
 
@@ -16,9 +16,9 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 
 Across all of these presentations — one gene. One mechanism. One community that deserves real answers.
 
-PRRT2 is a small protein that acts as a brake on voltage-gated sodium channels throughout the nervous system. When one copy of that gene is silenced — which is what happens in most of us — those channels run without adequate regulation. Every symptom traces back to that single mechanism.
+> _**PRRT2 is a small protein that acts as a brake on voltage-gated sodium channels throughout the nervous system. When one copy of that gene is silenced — which is what happens in most of us — those channels run without adequate regulation. Every symptom traces back to that single mechanism.**_
 
-I built this group because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
+I started this Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
 ## What the PRRT2 Gene Alliance Exists to Do
 
