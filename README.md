@@ -28,48 +28,41 @@ layout:
 **PRRT2 Gene Alliance** is officially in Phase 1. We are currently laying the groundwork and building out the ultimate open-source knowledge base for the PRRT2 gene. The site is under construction, but the community is open. [Join us on the ground floor.](https://facebook.com/groups/prrt2) 🧬
 {% endhint %}
 
-&#x20;Welcome to the PRRT2 Gene Alliance
+## Welcome
 
 > **Our Mission:** To provide a comprehensive, scientifically-grounded hub for education, research tracking, and community support for all things related to the PRRT2 gene.
 
-Whether you are a patient, caregiver, or researcher, this documentation site is designed to help you navigate the complexities of PRRT2 with clear, organized information.
+Whether you're a patient, a caregiver, a researcher, or someone newly diagnosed and searching for answers — this is a space built to help you understand PRRT2 clearly and completely. Real science, explained in plain language, alongside the human side of what this gene does to a life.
+
+New here? Start with **[The Reality of PRRT2](about.md)** — our story, and why this exists.
 
 ***
 
-🧭 Explore the Documentation
+## 🧭 Explore the Knowledge Base
 
-Use the directories below to navigate through our core resources:
-
-#### 📖 PRRT2 Gene Overview
-
-Start here to understand the foundational science. We break down the genetics, how the PRRT2 gene functions, and current scientific literature.
-
-* Introduction to PRRT2
-* Scientific Literature & Research
-
-#### 🧬 Associated Disorders
-
-Detailed breakdowns of the specific conditions and phenotypes linked to PRRT2 mutations.
-
-* Symptom Tracking
-* Diagnostic Criteria
-
-#### 📝 Treatments & Management
-
-A practical guide exploring current medical interventions, management strategies, and ongoing clinical trials.
-
-* Current Treatment Protocols
-* Research & Future Therapeutics
+<table data-view="cards">
+<thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
+<tbody>
+<tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td><a href="overview/introduction.md">overview/introduction.md</a></td></tr>
+<tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td><a href="conditions/prrt2-spectrum.md">conditions/prrt2-spectrum.md</a></td></tr>
+<tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td><a href="diagnosis/how-to-get-tested.md">diagnosis/how-to-get-tested.md</a></td></tr>
+<tr><td><strong>📝 Treatments &#x26; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td><a href="treatments/how-treatment-works.md">treatments/how-treatment-works.md</a></td></tr>
+<tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and where the science is heading next.</td><td><a href="research/current-literature.md">research/current-literature.md</a></td></tr>
+<tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td><a href="living/daily-management.md">living/daily-management.md</a></td></tr>
+<tr><td><strong>📚 Resources</strong></td><td>A plain-language glossary, a guide to bring to your doctor, and trusted links and support.</td><td><a href="resources/glossary.md">resources/glossary.md</a></td></tr>
+</tbody>
+</table>
 
 ***
 
-### 🤝 Join Our Community
+## 🤝 You're Not Alone
 
-You don't have to navigate this alone. We maintain an active and supportive community Facebook group where you can ask questions, share your experiences, and connect with others.
+Living with PRRT2 isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
 
-* [**Join the PRRT2 Gene Alliance Facebook Group**](https://facebook.com/groups/prrt2)&#x20;
+Our community Facebook group is active and open. Ask questions, share your experience, and connect with others who understand what this condition actually does to a life.
+
+[**→ Join the PRRT2 Gene Alliance Facebook Group**](https://facebook.com/groups/prrt2)
 
 ***
 
-**Need Help?** If you have questions about navigating this site, check out our Help Center or use the search bar in the top right corner to find specific topics.
-
+**Need help navigating?** Use the search bar at the top of the page, or click **Ask a question** above to search the knowledge base directly.
