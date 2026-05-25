@@ -47,11 +47,13 @@ You can explore each of these in detail in [Associated Conditions](../conditions
 {% hint style="success" %}
 **🧭 Alliance Perspective**
 
+_The PRRT2 Gene Alliance's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+
 Most brief descriptions of PRRT2 focus on infants and young children — and on the conditions that resolve early. That focus is understandable, but it leaves a large part of the picture in shadow.
 
 PRRT2 is not only a childhood gene. Its effects can appear, persist, or change across an entire lifetime, and many adults live with PRRT2-related symptoms — or carry the gene unknowingly — without ever being told that their experiences share a single cause.
 
-The PRRT2 Gene Alliance's view is that this is best understood as **one gene and one mechanism with many faces** — not a scattered list of separate disorders. Seeing it that way is what makes the adult experience, the undiagnosed, and the more unusual presentations visible instead of overlooked.
+Our view is that this is best understood as **one gene and one mechanism with many faces** — not a scattered list of separate disorders. Seeing it that way is what makes the adult experience, the undiagnosed, and the more unusual presentations visible instead of overlooked.
 {% endhint %}
 
 ## Sources
