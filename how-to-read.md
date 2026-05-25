@@ -14,16 +14,18 @@ We explain that science here in plain, accessible language — but we do not cha
 
 Science does not stand still. Some findings are published and promising, but not yet settled into consensus. Where this site covers them, we label them clearly as **emerging** — worth knowing about, but not yet established fact.
 
-## 🧭 The Alliance Perspective
+## 🧭 The PRRT2.org Perspective
 
 This is where PRRT2.org goes beyond the official summaries.
 
 The PRRT2 Gene Alliance exists because the standard descriptions are thin — written largely for pediatric specialists, and nearly silent on the adults who live with PRRT2 undiagnosed for years. Where this site offers its own synthesis — the patterns we see across symptoms, the connections the brief summaries miss, and the lived experience of people who actually carry this gene — we mark it clearly, like this:
 
 {% hint style="success" %}
-**🧭 Alliance Perspective**
+**🧭 PRRT2.org Perspective**
 
-Content marked this way is the PRRT2 Gene Alliance's own interpretation and lived-experience insight. It expands on the established science — but it is not, itself, medical consensus. We will always tell you when you are reading it.
+_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+
+When you see a box like this, you are reading the views of PRRT2.org — clearly separated from the established science around it, and always labeled as our own.
 {% endhint %}
 
 ## Why we do it this way
