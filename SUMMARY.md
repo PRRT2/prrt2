@@ -2,6 +2,7 @@
 
 * [PRRT2 Gene Alliance](README.md)
 * [About](about.md)
+* [How to Read This Site](how-to-read.md)
 
 ## 📖 PRRT2 Gene Overview
 
@@ -61,6 +62,7 @@
 
 ## 📚 Resources
 
+* [Official Resources](resources/official-resources.md)
 * [Glossary](resources/glossary.md)
 * [For Your Doctor](resources/for-your-doctor.md)
 * [Links & Support](resources/links-and-support.md)
