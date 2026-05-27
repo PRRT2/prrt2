@@ -18,9 +18,13 @@
 * [Benign Familial Infantile Seizures (BFIS)](conditions/bfis.md)
 * [Paroxysmal Exertional Dyskinesia (PED)](conditions/ped.md)
 * [Dystonia](conditions/dystonia.md)
-* [Dysphonia](conditions/dysphonia.md)
-* [Tics](conditions/tics.md)
 * [Hemiplegic Migraine](conditions/hemiplegic-migraine.md)
+
+## 🔭 Exploring the Wider Spectrum
+
+* [About This Section](wider-spectrum/README.md)
+* [Dysphonia](wider-spectrum/dysphonia.md)
+* [Tics](wider-spectrum/tics.md)
 
 ## 🔬 Diagnosis & Genetic Testing
 
