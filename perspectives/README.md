@@ -1,7 +1,7 @@
 # About Alliance Perspectives
 
 {% hint style="success" %}
-This is where the PRRT2 Gene Alliance's own voice gets room to stretch.
+**🧭  PRRT2.org Perspective -** This is where the PRRT2 Gene Alliance's own voice gets room to stretch.
 {% endhint %}
 
 Across the rest of the site, you'll find short green **🧭 PRRT2.org Perspective** callouts — brief asides where we step out of the plain reporting voice to offer our synthesis or lived experience. **Alliance Perspectives is where those asides become full essays:** deep dives into the issues we believe deserve real discussion, written from experience and conviction rather than consensus.
