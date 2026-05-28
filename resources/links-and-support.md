@@ -1,10 +1,10 @@
 # Links & Support
 
-The [Official Resources](official-resources.md) page collects the authoritative *scientific* references for PRRT2. This page is different — it is about **support and connection**: the people, communities, and organizations that help with living through a PRRT2 diagnosis, not just understanding it.
+The [Official Resources](official-resources.md) page collects the authoritative _scientific_ references for PRRT2. This page is different — it is about **support and connection**: the people, communities, and organizations that help with living through a PRRT2 diagnosis, not just understanding it.
 
 ## Our community
 
-* **PRRT2 Gene Alliance Facebook group** — the heart of our community, where people with PRRT2 and their families connect, compare experiences, and support one another. _(Add your group link here.)_
+* **PRRT2 Gene Alliance Facebook group** — the heart of our community, where people with PRRT2 and their families connect, compare experiences, and support one another. _(_[_Groups PRRT2_](https://facebook.com/groups/prrt2)_)_
 * **PRRT2.org** — this knowledge base. If it has helped you, sharing it with others — patients, families, even clinicians — is one of the simplest ways to extend its reach.
 
 ## Finding the right specialists
