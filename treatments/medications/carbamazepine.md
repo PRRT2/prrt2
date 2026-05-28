@@ -19,9 +19,9 @@ A notable feature in PKD is that the effective dose is often **much lower than t
 
 Like all medications, carbamazepine has trade-offs that a prescriber will weigh and monitor:
 
-* It can cause side effects, particularly when first started or at higher doses — drowsiness, dizziness, and unsteadiness are among the more common early ones.
+* **Tolerability varies a great deal between individuals.** Many people do well on low doses indefinitely, with few or no side effects. Others find that even modest doses bring drowsiness, mental dulling, fatigue, or other effects that meaningfully affect daily functioning. This variation is important: the same drug that is transformative for one person can be intolerable for another. We take that up in more depth on our perspective page, [Beyond the Blunt Instruments](../../perspectives/beyond-blunt-instruments.md).
 * It can affect blood counts and liver function, so periodic **blood monitoring** is standard.
-* It has **a number of drug interactions**, because it influences how the body processes other medications. Always make sure every clinician you see knows you take it.
+* It has **a number of drug interactions**, because it influences how the body processes other medications. Make sure every clinician you see knows you take it.
 * In people of certain genetic backgrounds, there is a raised risk of serious skin reactions, and **genetic screening before starting** is recommended in some populations — another reason this is a clinician-directed decision.
 
 > This page is informational, not a prescribing guide. Carbamazepine should only be started, dosed, and monitored under the care of a qualified clinician.
@@ -31,9 +31,11 @@ Like all medications, carbamazepine has trade-offs that a prescriber will weigh 
 
 _PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
 
-The low-dose, near-complete response of PKD to carbamazepine is, in our view, one of the most underappreciated facts about this whole family of conditions. People can spend years with frightening, frequent episodes — sometimes told the episodes are psychological — when a small dose of a decades-old, inexpensive medication would have controlled them.
+Two things are simultaneously true about carbamazepine, and both deserve to be said.
 
-If you have PKD-type episodes and have never tried a sodium-channel medication, that is a conversation worth having with a specialist. The dramatic response many people experience is, in itself, part of what tells you the diagnosis was right.
+**For many people with PKD, the low-dose response is dramatic and life-changing** — one of the most underappreciated facts in this whole family of conditions, where small doses of a decades-old, inexpensive medication routinely stop frequent, frightening episodes that had been mistaken for something else for years. If you have PKD-type episodes and have never tried a sodium-channel medication, that conversation is worth having with a specialist.
+
+**And for some of us, the cost is real.** The same broad sodium-channel blockade that controls the episodes can also take a meaningful cognitive and physical toll — the spaciness, the slowing, the skin reactions — that clinical trials measuring "episodes reduced" don't capture well. Intolerance is not the end of the road; more selective options like [lacosamide](lacosamide.md) exist, and the deeper argument about borrowed-tool medicine is taken up in our perspective essay, [Beyond the Blunt Instruments](../../perspectives/beyond-blunt-instruments.md).
 {% endhint %}
 
 ## Sources
@@ -41,10 +43,10 @@ If you have PKD-type episodes and have never tried a sodium-channel medication, 
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 * [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
 
-For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
+For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).
 
 ## Continue reading
 
 * [Treatment for PKD](../by-condition/pkd.md) — how carbamazepine fits the overall PKD approach
-* [Lacosamide](lacosamide.md) — a newer alternative in the same family
-* [Other Medications](other-medications.md) — oxcarbazepine and related agents
+* [Lacosamide](lacosamide.md) — a more selective alternative in the same family
+* [Beyond the Blunt Instruments](../../perspectives/beyond-blunt-instruments.md) — our perspective on borrowed-tool medicine

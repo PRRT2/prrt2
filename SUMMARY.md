@@ -4,11 +4,6 @@
 * [About](about.md)
 * [How to Read This Site](how-to-read.md)
 
-## ✍️ Alliance Perspectives
-
-* [About Alliance Perspectives](perspectives/README.md)
-* [Beyond the Blunt Instruments](perspectives/beyond-blunt-instruments.md)
-
 ## 📖 PRRT2 Gene Overview
 
 * [Introduction to PRRT2](overview/introduction.md)
@@ -61,6 +56,11 @@
 * [Current Literature](research/current-literature.md)
 * [Clinical Trials](research/clinical-trials.md)
 * [Future Therapeutics](research/future-therapeutics.md)
+
+## ✍️ Alliance Perspectives
+
+* [About Alliance Perspectives](perspectives/README.md)
+* [Beyond the Blunt Instruments](perspectives/beyond-blunt-instruments.md)
 
 ## 🤝 Living with PRRT2
 
