@@ -14,6 +14,8 @@ When you navigate a PRRT2 diagnosis — as an adult who is finally being named, 
 
 For decades the full reach of PRRT2 was poorly understood, and countless adults paid for it. People spent years — sometimes whole lives — labeled with something else: atypical seizures called ordinary epilepsy, paroxysmal movements written off as a tic disorder or as something psychological, migraines and dystonic episodes treated in isolation by clinicians who never saw the thread connecting them. When the genetic diagnosis finally arrives, it comes with a second hard truth: the treatments are decades behind the science that named the gene.
 
+<figure><img src="../.gitbook/assets/toolkit.jpg" alt=""><figcaption></figcaption></figure>
+
 ## A spectrum, one mechanism, no dedicated drug
 
 Whether the problem shows up as infantile seizures, as kinesigenic episodes (PKD), as exertional ones (PED), or — as in my case — as dystonia and dysphonia that arrived young and generalized over time, the underlying mechanism is shared: PRRT2 normally helps keep neural circuits stable, and without enough of it, those circuits tip too easily into misfiring. (See [The Sodium Channel Connection](../overview/sodium-channel-connection.md).)
