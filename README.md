@@ -27,7 +27,7 @@ layout:
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
 {% hint style="warning" %}
-**PRRT2 Gene Alliance** is officially in Phase 1. We are currently laying the groundwork and building out the ultimate open-source knowledge base for the PRRT2 gene. The site is under construction, but the community is open. [Join us on the ground floor.](https://facebook.com/groups/prrt2) 🧬
+**PRRT2 Gene Alliance** is officially in Phase 1. We are currently laying the groundwork and building out the ultimate open-source knowledge base for the PRRT2 gene. Right now there are areas of information we will be tightening up and zoning in on ['Our Perspectives'](how-to-read.md#the-prrt2.org-perspective), but all information is in line with current published medical data. The site is under construction, the community is open. [Join us on the ground floor.](https://facebook.com/groups/prrt2) 🧬
 {% endhint %}
 
 #### New here? Start with [**The Reality of PRRT2**](about.md) — our story, and why this exists.
