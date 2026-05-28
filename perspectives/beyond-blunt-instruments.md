@@ -2,7 +2,7 @@
 
 ### The case for targeted PRRT2 therapies
 
-_An Alliance Perspective — a personal essay by [your name], who lives with PRRT2 · May 28, 2026_
+_An Alliance Perspective — a personal essay by PRRT2.org, who lives with PRRT2 · May 28, 2026_
 
 {% hint style="success" %}
 **🧭 PRRT2.org Perspective**
@@ -34,7 +34,7 @@ That gap — between what the trials measure and what the drug actually costs a 
 
 My dystonia and dysphonia didn't come and go — they came young and they generalized, the way early-onset dystonia so often does, taking more of the body with it over the years. The blunt drugs built for other conditions didn't just fail to fix that; for me they made it worse — more resistance, more side effects, less of me left over.
 
-So with my doctors, I made a different bargain: not total suppression, but *livable*. Lighter, individualized, supervised — accepting some breakthrough in exchange for keeping my mind and my function.
+So with my doctors, I made a different bargain: not total suppression, but _livable_. Lighter, individualized, supervised — accepting some breakthrough in exchange for keeping my mind and my function.
 
 I won't publish that regimen as a recipe, and I want to be honest about why. What balances one person can harm another. Some of the adjuncts people reach for — benzodiazepines especially — carry real dependence and withdrawal risks, and getting them wrong can make seizures and dystonia worse, not better. A one-size protocol is exactly the kind of thinking that failed us to begin with.
 
@@ -42,9 +42,9 @@ The point was never my specific cocktail. It's that I have to improvise one at a
 
 ## Blunt isn't the only tool — and shouldn't be the destination
 
-Let me be clear about one thing, because I don't want anyone to read this as "avoid treatment." For many people, these medications are genuinely life-changing, and intolerance to one blunt tool does not close the door. There are **more selective** options worth raising with a specialist. **Lacosamide**, for instance, acts on the *slow* inactivation of sodium channels — it preferentially quiets the rapid burst-firing that drives episodes while leaving ordinary firing more intact, which can mean control with less of the global fog. **Eslicarbazepine** and **lamotrigine** are other, cleaner-profile members of the broad family; **acetazolamide**, which isn't a sodium-channel drug at all, sometimes helps the exertional and atypical presentations. (See [Medications](../treatments/medications/README.md) — which, if any, fits a given person is entirely a specialist's call.)
+Let me be clear about one thing, because I don't want anyone to read this as "avoid treatment." For many people, these medications are genuinely life-changing, and intolerance to one blunt tool does not close the door. There are **more selective** options worth raising with a specialist. **Lacosamide**, for instance, acts on the _slow_ inactivation of sodium channels — it preferentially quiets the rapid burst-firing that drives episodes while leaving ordinary firing more intact, which can mean control with less of the global fog. **Eslicarbazepine** and **lamotrigine** are other, cleaner-profile members of the broad family; **acetazolamide**, which isn't a sodium-channel drug at all, sometimes helps the exertional and atypical presentations. (See [Medications](../treatments/medications/) — which, if any, fits a given person is entirely a specialist's call.)
 
-But notice what even the good news is: precision *within a borrowed class.* A more selective anticonvulsant is still an anticonvulsant designed for something else, fitted to us as best it can be. That is real progress for a patient choosing today. It is not the destination.
+But notice what even the good news is: precision _within a borrowed class._ A more selective anticonvulsant is still an anticonvulsant designed for something else, fitted to us as best it can be. That is real progress for a patient choosing today. It is not the destination.
 
 ## Why we advocate
 
@@ -54,9 +54,9 @@ We want the scientific and pharmaceutical communities to recognize that stopping
 
 Until that therapy exists, the least we can do is name the gap out loud — and make sure no one believes that "the episodes stopped" was ever the whole of what they were owed.
 
----
+***
 
-_Have you faced this trade-off between control and clarity? Your experience is part of the case we're making. Share it through our community — see [Links & Support](../resources/links-and-support.md) — or read others' on [Patient Stories](../living/patient-stories.md)._
+_Have you faced this trade-off between control and clarity? Your experience is part of the case we're making. Share it through our community — see_ [_Links & Support_](../resources/links-and-support.md) _— or read others' on_ [_Patient Stories_](../living/patient-stories.md)_._
 
 ## Continue reading
 
