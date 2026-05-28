@@ -4,8 +4,8 @@ We would love to hear from you. PRRT2.org is a patient-advocacy project, and con
 
 ## Get in touch
 
-* **Email:** _[add your contact email here]_
-* **Facebook:** the **PRRT2 Gene Alliance** Facebook group — often the fastest way to reach the community _(link on the [Links & Support](links-and-support.md) page)_.
+* **Email:** [contact@prrt2.org](mailto:contact@prrt2.org)
+* **Facebook:** the [**PRRT2 Gene Alliance** Facebook group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community _(link on the_ [_Links & Support_](links-and-support.md) _page)_.
 
 ## What we welcome
 
