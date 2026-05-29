@@ -61,6 +61,7 @@
 
 * [About Alliance Perspectives](perspectives/README.md)
 * [Beyond the Blunt Instruments](perspectives/beyond-blunt-instruments.md)
+* [How Many of Us Are There?](perspectives/how-many-of-us.md)
 
 ## 🤝 Living with PRRT2
 
