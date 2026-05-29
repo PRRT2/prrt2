@@ -28,15 +28,19 @@ The clinical literature tends to celebrate these drugs for one thing: they stop 
 
 Carbamazepine is, mechanically, a **blunt instrument.** It blocks voltage-gated sodium channels indiscriminately — not only the overactive circuits driving the episodes, but the healthy ones underneath that were doing their jobs. The misfiring quiets down, and so does a great deal that was never the problem.
 
-I know that cost firsthand. On it, I felt spacey and underwater; life slowed to a crawl; my thinking dulled to the point that I could barely drive, on top of skin reactions. A clinical trial would have recorded a "successful reduction in dyskinesia." It would not have recorded the rest of it — the fog, the lost sharpness, the sense of being so dampened that the cure had its own disability built in.
+For some people, that trade is worth making — episodes drop dramatically, life becomes navigable, and the cognitive cost is something they can absorb. That's the version the literature describes, and for those patients it's a real and meaningful improvement.
 
-That gap — between what the trials measure and what the drug actually costs a life — is the heart of the problem. **Stopping the misfiring is only half of medicine. The other half is whether you can still live the way you want to.**
+For others, the picture is different. Some people get the cost without the full payoff — the fog, the slowing, the dulled thinking, the side effects — and the episodes don't fully stop. Some carry the cognitive tax indefinitely with only partial control of what the drug was supposed to control. I'm one of them. On carbamazepine I felt spacey and underwater; life slowed to a crawl; my thinking dulled to the point that I could barely drive, on top of skin reactions. And the storms kept coming.
+
+A clinical trial would have recorded a "partial response," maybe a "successful reduction in dyskinesia," in the patients who match the textbook picture. It would not have recorded the rest of us — the cognitive cost without the full payoff, the cure that brought its own disability without delivering on its promise. There is a name for the first half of that bargain. There isn't really one for the second.
+
+That gap — between what the trials measure and what the drug actually costs the people taking it — is the heart of the problem. **Stopping the misfiring is only half of medicine. The other half is whether you can still live the way you want to. And for some of us, even that half isn't reliably bought.**
 
 ## My picture, and a different bargain
 
-My dystonia and dysphonia didn't come and go — they came young and they generalized, the way early-onset dystonia so often does, taking more of the body with it over the years. The blunt drugs built for other conditions didn't just fail to fix that; for me they made it worse — more resistance, more side effects, less of me left over.
+My dystonia and dysphonia didn't come and go — they came young and they generalized, the way early-onset dystonia so often does, taking more of the body with it over the years. The blunt drugs built for other conditions didn't just fail to fully control the storms; for me they made it worse on both sides — more resistance, more side effects, less of me left over.
 
-So with my doctors, I made a different bargain: not total suppression, but _livable_. Lighter, individualized, supervised — accepting some breakthrough in exchange for keeping my mind and my function.
+So with my doctors, I had to make a different bargain. Not total suppression — that was never on offer for me anyway — but _livable_. Lighter, individualized, supervised — accepting more breakthrough in exchange for keeping my mind and my function.
 
 I won't publish that regimen as a recipe, and I want to be honest about why. What balances one person can harm another. Some of the adjuncts people reach for — benzodiazepines especially — carry real dependence and withdrawal risks, and getting them wrong can make seizures and dystonia worse, not better. A one-size protocol is exactly the kind of thinking that failed us to begin with.
 
