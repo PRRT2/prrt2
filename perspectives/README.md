@@ -1,8 +1,6 @@
-# About Alliance Perspectives
+# Alliance Perspectives
 
-{% hint style="success" %}
-**🧭  PRRT2.org Perspective -** This is where the PRRT2 Gene Alliance's own voice gets room to stretch.
-{% endhint %}
+This is where the PRRT2 Gene Alliance's own voice gets room to stretch.
 
 Across the rest of the site, you'll find short green **🧭 PRRT2.org Perspective** callouts — brief asides where we step out of the plain reporting voice to offer our synthesis or lived experience. **Alliance Perspectives is where those asides become full essays:** deep dives into the issues we believe deserve real discussion, written from experience and conviction rather than consensus.
 
@@ -19,3 +17,4 @@ Each piece is meant to start a discussion, not end one. If something here resona
 ## Articles
 
 * [Beyond the Blunt Instruments](beyond-blunt-instruments.md) — on the lack of targeted PRRT2 drugs, and the real cost of the borrowed ones
+* [How Many of Us Are There?](how-many-of-us.md) — the PRRT2 count, the invisible thousands, and why the real number matters
