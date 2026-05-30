@@ -52,4 +52,6 @@ Our community Facebook group is active and open. Ask questions, share your exper
 
 ***
 
-**Can't find what you're looking for?** The search bar above has AI built in — type a question and it will search the knowledge base for you.
+**Can't find what you're looking for?** The search bar above has AI built in, or click below to ask directly.
+
+<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
