@@ -20,15 +20,43 @@ Across all of these presentations — one gene. One mechanism. One community tha
 
 I started this Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
-## What the PRRT2 Gene Alliance Exists to Do
+## Our Goals as an Organization
 
-* 🔬 **Translate research** into language that actually makes sense.
-* 🧬 **Connect patients, families, and caregivers** worldwide.
-* 🧪 **Advocate for accessible genetic testing** — because most people with PRRT2 don't know they have it yet.
-* 📋 **Build a patient registry** to accelerate research.
-* 💬 **Create a space** where your questions get real answers.
-* ❤️ **Talk honestly** about what this condition does to a life — the visible struggles and the invisible ones nobody sees.
-* 🏛️ **Eventually fund research directly** — the PRRT2.org Foundation.
+The PRRT2 Gene Alliance was founded by a patient who understood firsthand that no adequate resource existed for this community. Not for patients trying to understand what was happening to their bodies. Not for families trying to help. Not for clinicians encountering atypical presentations they had never seen before.
+
+We operate as a patient-led, fiscally sponsored nonprofit with the following commitments:
+
+### Knowledge
+
+Produce and maintain the most comprehensive, rigorously cited, plain-language resource on PRRT2 available anywhere — covering genetics, associated conditions, diagnosis, treatment, research, and lived experience. Written for patients first, useful for clinicians.
+
+### Community
+
+Build and support a registry of PRRT2 patients, families, and caregivers — with particular attention to adults with atypical or late-diagnosed presentations who are currently underrepresented in the clinical literature.
+
+### Technology
+
+Develop tools that give PRRT2 patients a clinical voice:
+
+* **A visual disease explainer** — animated cellular and neurological graphics showing what PRRT2 dysfunction actually looks like in motion, for patients, families, and clinicians
+* **A PRRT2-specific symptom tracker** — designed around the real constellation, not generic symptoms; exports a clinical summary for neurology appointments
+* **A diagnostic navigator** — maps a patient's symptom history against known PRRT2 presentations and generates language to bring to a physician
+
+Because understanding your own condition — and being able to communicate it — should not take decades.
+
+### Access
+
+Partner with genetic testing laboratories to reduce financial barriers to PRRT2 diagnosis for uninsured and underinsured patients.
+
+### Advocacy
+
+Represent the PRRT2 community in conversations with researchers, clinicians, pharmaceutical developers, and policymakers — and ensure that lived patient experience shapes how PRRT2 is understood, studied, and treated.
+
+{% hint style="success" %}
+**🧭 PRRT2.org Perspective**
+
+_The PRRT2 Gene Alliance is a patient-founded, patient-led organization. These goals reflect the gaps we have lived — not gaps identified from the outside._
+{% endhint %}
 
 ## You Belong Here
 
@@ -42,7 +70,7 @@ If you were told your symptoms are unrelated, unexplained, or untestable — thi
 
 Whether you have PKD, BFIS, dystonia, epilepsy, dysphonia, PED, or you're newly diagnosed and overwhelmed — you belong here.
 
-This group is just starting. The website is coming. The registry is coming. The research partnerships are coming. But it starts with us finding each other.
+This group is just starting. The website is building. The registry is coming. The research partnerships are coming. But it starts with us finding each other.
 
 Join the PRRT2 Gene Alliance Facebook group, introduce yourself, and tell us your diagnosis, your country, and your biggest unanswered question. Let's start mapping this condition together.
 
