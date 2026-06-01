@@ -24,7 +24,7 @@ I started this Alliance because patients and families deserve more than what cur
 
 The PRRT2 Gene Alliance was founded by a patient who understood firsthand that no adequate resource existed for this community. Not for patients trying to understand what was happening to their bodies. Not for families trying to help. Not for clinicians encountering atypical presentations they had never seen before.
 
-We operate as a patient-led, fiscally sponsored nonprofit with the following commitments:
+We operate as a patient-led nonprofit organization with the following commitments:
 
 ### Knowledge
 

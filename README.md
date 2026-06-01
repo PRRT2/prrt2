@@ -65,7 +65,7 @@ A structured episode and symptom logging tool built around the real PRRT2 conste
 **Diagnostic navigator**\
 An intake tool that maps a patient's symptom history against known PRRT2 presentations and generates language a patient can bring directly to their physician — designed to shorten the diagnostic odyssey that affects the overwhelming majority of PRRT2 patients.
 
-These are the organizational goals of the PRRT2 Gene Alliance as a fiscally sponsored nonprofit. [Read the full mission →](about.md#our-goals-as-an-organization)
+These are the organizational goals of the PRRT2 Gene Alliance. [Read the full mission →](about.md#our-goals-as-an-organization)
 
 ***
 
