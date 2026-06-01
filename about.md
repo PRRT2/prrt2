@@ -1,9 +1,5 @@
 ---
-cover: https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1600&q=80
-coverY: 0
 layout:
-  cover:
-    visible: true
   title:
     visible: true
   description:
@@ -39,8 +35,6 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 > _PRRT2 is a small protein that acts as a brake on voltage-gated sodium channels throughout the nervous system. When one copy of that gene is silenced — which is what happens in most of us — those channels run without adequate regulation._
 >
 > _Every symptom traces back to that single mechanism._
-
-<figure><img src="https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?auto=format&fit=crop&w=1200&q=80" alt="Abstract visualization of neural network activity"><figcaption>One gene. One mechanism. Many presentations.</figcaption></figure>
 
 I started this Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 

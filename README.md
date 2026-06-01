@@ -1,7 +1,11 @@
 ---
 icon: dna
+cover: .gitbook/assets/letterbox_banner_hires.jpg
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
   title:
     visible: false
   description:
@@ -19,8 +23,6 @@ layout:
   actions:
     visible: false
 ---
-
-<figure><img src=".gitbook/assets/letterbox_banner.jpg" alt="PRRT2 Gene Alliance"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 We're building the open-source knowledge base for PRRT2 — laying the groundwork in public, with the community. All content is grounded in current published medical data; we're tightening sections and developing our [Alliance Perspectives](https://www.prrt2.org/perspectives) as we go. [Join us on the ground floor.](https://facebook.com/groups/prrt2) 🧬
