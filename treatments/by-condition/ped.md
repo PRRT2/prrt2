@@ -69,7 +69,7 @@ Whatever the genetic cause, sustained exertion is the trigger. Practical managem
 * [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
-For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
+For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).
 
 ## Continue reading
 
