@@ -24,10 +24,6 @@ layout:
     visible: false
 ---
 
-{% hint style="info" %}
-We're building the open-source knowledge base for PRRT2 — laying the groundwork in public, with the community. All content is grounded in current published medical data; we're tightening sections and developing our [Alliance Perspectives](https://www.prrt2.org/perspectives) as we go. [Join us on the ground floor.](https://facebook.com/groups/prrt2) 🧬
-{% endhint %}
-
 **New here? Start with** [**The Reality of PRRT2**](about.md) **— our story, and why this exists.**
 
 **How we work:** we separate established science from our own perspective, and we cite our sources. [See how to read this site →](how-to-read.md)
@@ -40,9 +36,9 @@ We're building the open-source knowledge base for PRRT2 — laying the groundwor
 
 ***
 
-> **Our Mission:** To provide a comprehensive, scientifically-grounded hub for education, research tracking, and community support for all things related to the PRRT2 gene.
+> **Our Mission:** The PRRT2 Gene Alliance exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
-Whether you're a patient, a caregiver, a researcher, or someone newly diagnosed and searching for answers — this is a space built to help you understand PRRT2 clearly and completely. Real science, explained in plain language, alongside the human side of what this gene does to a life.
+Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base, a growing patient registry, a platform in active development, and a partnership-driven organization working to make PRRT2 visible in ways it has never been before. Real science in plain language. Technology built around the real symptom constellation. Partnerships that move research forward. And a community that understands what this gene actually does to a life.
 
 ***
 
