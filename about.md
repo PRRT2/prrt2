@@ -1,5 +1,9 @@
 ---
+cover: https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1600&q=80
+coverY: 0
 layout:
+  cover:
+    visible: true
   title:
     visible: true
   description:
@@ -35,6 +39,8 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 > _PRRT2 is a small protein that acts as a brake on voltage-gated sodium channels throughout the nervous system. When one copy of that gene is silenced — which is what happens in most of us — those channels run without adequate regulation._
 >
 > _Every symptom traces back to that single mechanism._
+
+<figure><img src=".gitbook/assets/prrt2-sodium-channel-diagram.jpg" alt="PRRT2 sodium channel dysregulation — normal signaling vs PRRT2 mutation"><figcaption>Left: normal PRRT2 function keeps sodium channels regulated. Right: one silenced copy removes the brake — channels over-fire, producing every symptom in the PRRT2 spectrum.</figcaption></figure>
 
 I started this Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
