@@ -1,42 +1,49 @@
 # Other Medications
 
-Beyond the medications with their own pages, several others appear in the treatment of PRRT2-related conditions — some as close alternatives to first-line therapy, some for particular phenotypes such as hemiplegic migraine. This page is a brief roundup. None of it is a prescribing guide; every option here is a specialist's decision.
+This page covers medications that are used in PRRT2-related conditions beyond the dedicated pages for [Carbamazepine](carbamazepine.md), [Lacosamide](lacosamide.md), [Botulinum Toxin](botulinum-toxin.md), and [Sodium Oxybate](sodium-oxybate.md). Some of these are well-established for specific presentations; others are in use but with a smaller evidence base.
 
-## Other sodium-channel agents
+## Oxcarbazepine
 
-These work on the same broad principle as [carbamazepine](carbamazepine.md) — reducing neuronal hyperexcitability — and are used as alternatives:
+Oxcarbazepine is a close structural relative of carbamazepine and works through the same sodium-channel-blocking mechanism. It is used in PKD as a direct alternative, often chosen when carbamazepine causes tolerability problems — rash, cognitive effects, or interactions. The evidence base for PKD is strong enough that the two are generally considered interchangeable for this indication, with oxcarbazepine sometimes better tolerated. For carriers who experienced significant cognitive dulling on carbamazepine, oxcarbazepine is a reasonable option to discuss with a neurologist, though the class effect means cognitive effects cannot be assumed to be absent.
 
-* **Oxcarbazepine** — a close relative of carbamazepine, often chosen for a somewhat different tolerability and interaction profile. A common first alternative when carbamazepine is not ideal.
-* **Phenytoin** — an older sodium-channel agent, sometimes used historically and in particular situations.
-* **Other anti-seizure medications** — depending on the clinical picture and any co-existing epilepsy, a specialist may consider additional agents in this family.
+## Phenytoin
 
-## For paroxysmal episodes that don't fit the usual pattern
+Phenytoin is an older sodium-channel-blocking anticonvulsant with documented efficacy in PKD, used before carbamazepine became standard. It is less commonly reached for today given its narrower therapeutic index and side effect profile, but it remains in use where other options have failed or are not tolerated.
 
-* **Acetazolamide** — used in some paroxysmal movement disorders and episodic ataxias. It is occasionally tried in non-kinesigenic or atypical paroxysmal presentations, on a specialist's judgment.
-* **Benzodiazepines** (such as clonazepam) — sometimes used for certain paroxysmal dyskinesias, particularly non-kinesigenic forms, though their role is more limited and their long-term use is weighed carefully.
+## Acetazolamide
 
-## For hemiplegic migraine
+Acetazolamide works through a different mechanism from the sodium-channel agents — it inhibits carbonic anhydrase, which alters neuronal pH and ion gradients in a way that reduces hyperexcitability. It has an established evidence base for exercise-induced and paroxysmal movement disorders, including episodic ataxia type 2 and certain paroxysmal dystonia presentations.
 
-Hemiplegic migraine is managed somewhat differently from the movement-disorder side of PRRT2, and requires specialist care:
+For PRRT2 carriers with prominent exertional or vibration-triggered episodes, acetazolamide is the most relevant alternative to carbamazepine to raise with a neurologist. The response in exertional presentations has evidence behind it, its cognitive side effect profile is generally milder than carbamazepine, and it is a logical fit where the exertional pattern is a central complaint.
 
-* **Preventive medications** — various classes are used to reduce attack frequency.
-* **A note of caution** — some standard migraine treatments are typically **avoided** in hemiplegic migraine. This is precisely why hemiplegic migraine should be managed by a clinician familiar with it. (See [Hemiplegic Migraine](../conditions/hemiplegic-migraine.md).)
+Acetazolamide can cause metabolic acidosis, kidney stones, and electrolyte changes with longer-term use; appropriate monitoring is part of management on this medication.
+
+## Clonazepam
+
+Clonazepam, a benzodiazepine, is sometimes used for paroxysmal movement disorders, particularly in PNKD-like presentations or where episodes are not well controlled on sodium-channel agents. It is not a primary treatment for PRRT2-related PKD but may have a role in refractory cases or as adjunctive therapy. The dependence and tolerance profile of benzodiazepines is a relevant consideration in longer-term use.
+
+## Levetiracetam
+
+Levetiracetam has been reported as effective in some paroxysmal dyskinesia cases, including occasional reports in exertional phenotypes. Its mechanism in this context is not fully established. It is generally well tolerated and is used in some carriers where first-line options are unavailable or not tolerated, though it is not a standard first-line agent for PRRT2-related conditions.
+
+## Valproate
+
+Valproate is a broad-spectrum anticonvulsant that has been used in paroxysmal dyskinesias. It is not a primary treatment for PRRT2-PKD, where sodium-channel blockers are more targeted, but may appear in treatment histories of patients who were managed before genetic diagnosis or where comorbid epilepsy is present.
 
 ## For exertional episodes (PED)
 
-* Where PED is due to **GLUT1 deficiency (SLC2A1)** rather than PRRT2, the **ketogenic diet** is often the key intervention rather than a medication. This is one of the reasons distinguishing the underlying gene matters. (See [Treatment for PED](../by-condition/ped.md) and [Lifestyle & Diet](../lifestyle-and-diet.md).)
-
-> Informational only. The presence of a medication on this list is not a recommendation; choices among these agents depend entirely on the individual and belong to a qualified prescriber.
+Where PED is GLUT1-related (SLC2A1), the primary intervention is dietary rather than pharmacological. See [Treatment for PED](../by-condition/ped.md) for the full picture, including the distinction between GLUT1-specific and PRRT2-related management and the role of acetazolamide in exertional PRRT2 presentations.
 
 ## Sources
 
 * [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
+* Zorzi G et al. Pediatric Paroxysmal Exercise-Induced Neurological Symptoms. *Front Neurol.* 2021. [DOI 10.3389/fneur.2021.658178](https://doi.org/10.3389/fneur.2021.658178)
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
 
 ## Continue reading
 
-* [Carbamazepine](carbamazepine.md) — the established first-line treatment
-* [Treatment by Condition](../by-condition/README.md) — how these options apply to each condition
-* [Lifestyle & Diet](../lifestyle-and-diet.md) — non-drug measures
+* [Carbamazepine](carbamazepine.md) — first-line for PKD
+* [Treatment for PED](../by-condition/ped.md) — full exertional treatment picture
+* [Treatment for PKD](../by-condition/pkd.md) — when to consider alternatives to carbamazepine
