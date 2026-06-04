@@ -42,13 +42,13 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 
 <figure><img src=".gitbook/assets/prrt2-sodium-channel-diagram.jpg" alt="PRRT2 sodium channel dysregulation — normal signaling vs PRRT2 mutation"><figcaption>Left: normal PRRT2 function keeps sodium channels regulated. Right: one silenced copy removes the brake — channels over-fire, producing every symptom in the PRRT2 spectrum.</figcaption></figure>
 
-I started this Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
+I started the Gene Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
 ***
 
 ## Our Goals as an Organization
 
-The PRRT2 Gene Alliance was founded by a patient who understood firsthand that no adequate resource existed for this community. Not for patients trying to understand what was happening to their bodies. Not for families trying to help. Not for clinicians encountering atypical presentations they had never seen before.
+The PRRT2 Foundation was founded by a patient who understood firsthand that no adequate resource existed for this community. Not for patients trying to understand what was happening to their bodies. Not for families trying to help. Not for clinicians encountering atypical presentations they had never seen before.
 
 We operate as a patient-led nonprofit organization with the following commitments:
 
@@ -81,7 +81,7 @@ Represent the PRRT2 community in conversations with researchers, clinicians, pha
 {% hint style="success" %}
 **🧭 PRRT2.org Perspective**
 
-The PRRT2 Gene Alliance is a patient-founded, patient-led organization. These goals reflect the gaps we have lived — not gaps identified from the outside.
+The PRRT2 Foundation is a patient-founded, patient-led organization. These goals reflect the gaps we have lived — not gaps identified from the outside.
 {% endhint %}
 
 ***
@@ -100,10 +100,16 @@ Whether you have PKD, BFIS, dystonia, epilepsy, dysphonia, PED, or you're newly 
 
 Join the PRRT2 Gene Alliance Facebook group, introduce yourself, and tell us your diagnosis, your country, and your biggest unanswered question. Let's start mapping this condition together.
 
-[**Join the PRRT2 Gene Alliance Facebook Group →**](https://facebook.com/groups/prrt2)
+[**Join the PRRT2 Gene Alliance →**](https://facebook.com/groups/prrt2)
+
+***
+
+{% hint style="info" %}
+**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation, North Port, Florida. Federal 501(c)(3) tax-exempt status will be applied for. Until granted, donations are not tax-deductible. We are not currently accepting donations.
+{% endhint %}
 
 ***
 
 — **Sean**\
-Founder, PRRT2 Gene Alliance\
+Founder, PRRT2 Foundation\
 [prrt2.org](https://prrt2.org)
