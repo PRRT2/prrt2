@@ -1,27 +1,44 @@
 # Contact
 
-We would love to hear from you. PRRT2.org is a patient-advocacy project, and connection with the community is a large part of why it exists.
+PRRT2 Foundation is a patient advocacy organization dedicated to education, awareness, and community for people affected by PRRT2 gene mutations. We are a small, largely volunteer effort — connection with this community is a large part of why we exist.
 
 ## Get in touch
 
 * **Email:** [contact@prrt2.org](mailto:contact@prrt2.org)
-* **Facebook:** the [**PRRT2 Gene Alliance** Facebook group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community _(link on the_ [_Links & Support_](links-and-support.md) _page)_.
+* **Facebook:** [PRRT2 Foundation community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
 
 ## What we welcome
 
-* **Sharing your story.** Your experience with PRRT2 can help someone who is where you once were. See [Patient Stories](../living/patient-stories.md).
-* **Corrections and feedback.** If something on the site is unclear, out of date, or wrong, please tell us — accuracy matters to us, and we would rather hear it than not.
-* **Questions about the site** or help finding your way around it.
-* **Research, media, and collaboration inquiries.**
+* **Your story.** If you carry a PRRT2 variant — or suspect you do — your experience helps others who are where you once were. See [Patient Stories](../living/patient-stories.md).
+* **Corrections and feedback.** If something on this site is unclear, outdated, or wrong, please tell us. Accuracy matters to us.
+* **Research and media inquiries.** We welcome collaboration with researchers, clinicians, and journalists covering rare neurological conditions.
+* **General questions** about navigating the site or finding information.
 
 ## Please note
 
-* **PRRT2.org cannot provide medical advice**, and nothing here is a substitute for a qualified clinician. We are not able to comment on individual diagnoses, test results, or treatment decisions — those belong with your own specialist (see [How to Get Tested](../diagnosis/how-to-get-tested.md) on finding the right one).
-* **Please do not use email for anything urgent, or for a medical emergency.** If you or someone else is in crisis or in danger, contact your local emergency services right away.
-* We are a small, largely volunteer effort, so replies may take some time. Thank you for your patience and understanding.
+{% hint style="warning" %}
+**PRRT2 Foundation does not provide medical advice.** Nothing on this site — including any AI-assisted answers — is a substitute for evaluation and guidance from a qualified clinician. We cannot comment on individual diagnoses, test results, or treatment decisions. Those conversations belong with your own specialist.
 
-## Continue reading
+If you or someone else is in a medical emergency, contact your local emergency services immediately.
+{% endhint %}
 
-* [Links & Support](links-and-support.md) — community and support resources
-* [Frequently Asked Questions](faq.md) — quick answers to common questions
-* [The Reality of PRRT2](../about.md) — the story behind this site
+Replies may take some time. We appreciate your patience.
+
+***
+
+## About this organization
+
+**PRRT2 Foundation, Inc.**
+North Port, Florida, USA
+[contact@prrt2.org](mailto:contact@prrt2.org)
+
+PRRT2 Foundation, Inc. is a Florida nonprofit corporation. We are not yet registered as a 501(c)(3) tax-exempt organization with the Internal Revenue Service. **We are not accepting donations at this time.**
+
+All original content on this site is the intellectual property of PRRT2 Foundation, Inc.
+© 2026 PRRT2 Foundation, Inc. All rights reserved.
+
+***
+
+* [Links & Support](links-and-support.md)
+* [Frequently Asked Questions](faq.md)
+* [Disclaimers & Legal](disclaimers.md)
