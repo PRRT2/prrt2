@@ -1,11 +1,11 @@
 # Contact
 
-PRRT2 Foundation is a patient advocacy organization dedicated to education, awareness, and community for people affected by PRRT2 gene mutations. We are a small, largely volunteer effort — connection with this community is a large part of why we exist.
+PRRT2 Foundation is a patient-led advocacy organization dedicated to education, awareness, and community for people affected by PRRT2 gene mutations. Connection with this community is a large part of why we exist.
 
 ## Get in touch
 
 * **Email:** [contact@prrt2.org](mailto:contact@prrt2.org)
-* **Facebook:** [PRRT2 Foundation community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
+* **Facebook:** [PRRT2 Gene Alliance community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
 
 ## What we welcome
 
@@ -32,7 +32,7 @@ Replies may take some time. We appreciate your patience.
 North Port, Florida, USA
 [contact@prrt2.org](mailto:contact@prrt2.org)
 
-PRRT2 Foundation, Inc. is a Florida nonprofit corporation. We are not yet registered as a 501(c)(3) tax-exempt organization with the Internal Revenue Service. **We are not accepting donations at this time.**
+PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Federal 501(c)(3) tax-exempt status will be applied for — until that designation is granted, donations are not tax-deductible. **We are not currently accepting donations.**
 
 All original content on this site is the intellectual property of PRRT2 Foundation, Inc.
 © 2026 PRRT2 Foundation, Inc. All rights reserved.
