@@ -72,3 +72,4 @@
 * [For Your Doctor](resources/for-your-doctor.md)
 * [Links & Support](resources/links-and-support.md)
 * [Contact](resources/contact.md)
+* [Disclaimers & Legal](resources/disclaimers.md)
