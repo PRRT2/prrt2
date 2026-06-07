@@ -1,6 +1,6 @@
 ---
 icon: dna
-cover: .gitbook/assets/letterbox_banner_hires (2).jpg
+cover: .gitbook/assets/letterbox_banner_hires (3).jpg
 coverY: 116.61877394636016
 layout:
   width: wide
