@@ -41,7 +41,7 @@ layout:
 
 > **Our Mission:** The PRRT2 Foundation exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
-Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base, a growing patient registry, a platform in active development, and a partnership-driven organization working to make PRRT2 visible in ways it has never been before. Real science in plain language. Technology built around the real symptom constellation. Partnerships that move research forward. And a community that understands what this gene actually does to a life.
+Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base built by people who live with this gene. Real science in plain language. A community that understands what this gene actually does to a life.
 
 ***
 
@@ -49,19 +49,8 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 #### 🏛️ About the Foundation
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ What We're Building</strong></td><td>The patient registry, research partnerships, clinical voice tools, and foundation infrastructure in active development.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">resources/contact.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ Development</strong></td><td>Where the Foundation is heading — our goals and what we are working toward.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">resources/contact.md</a></td></tr></tbody></table>
 
-#### 🛠️ What We're Building
-
-{% hint style="warning" %}
-**🧭 Foundation Note** — Beyond the knowledge base, we are developing technology tools designed to give every PRRT2 patient a clinical voice. These are in active development.
-{% endhint %}
-
-Most people with PRRT2 spend years — sometimes decades — unable to describe what is happening inside their own nervous system. Symptoms are episodic, neurological, and invisible to everyone else. Misdiagnosis is the norm, not the exception.
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>🧠 Visual Disease Explainer</strong></td><td>Animated cellular and neurological graphics showing what PRRT2 dysfunction actually looks like in motion — for patients, families, and clinicians who need to see it to understand it.</td></tr><tr><td><strong>📋 Symptom Tracker</strong></td><td>A PRRT2-specific episode and symptom logger built around the real constellation. Tracks triggers, episode type, duration, and recovery arc. Exports a clinical summary for your neurology team.</td></tr><tr><td><strong>🧭 Diagnostic Navigator</strong></td><td>Maps a patient's symptom history against known PRRT2 presentations and generates language to bring directly to a physician — to shorten the diagnostic odyssey that most of us lived through.</td></tr></tbody></table>
-
-[Read the full development roadmap →](what-we-are-building.md)
 
 ***
 

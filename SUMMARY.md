@@ -74,6 +74,6 @@
 ## 🏛️ About the Foundation
 
 * [About — The Reality of PRRT2](about.md)
-* [What We're Building](what-we-are-building.md)
+* [Development](what-we-are-building.md)
 * [Contact](resources/contact.md)
 * [Disclaimers & Legal](resources/disclaimers.md)
