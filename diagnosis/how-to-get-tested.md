@@ -53,10 +53,10 @@ A specialist visit is most useful when you arrive prepared:
 * A **family history** — relatives with seizures, movement problems, migraines, or unexplained spells, even if labeled differently.
 * Any prior **EEG, MRI, or genetic results**, if available.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The diagnostic delay for PRRT2 is, in our experience, not really a problem of testing technology. The tests exist and they work. The bottleneck is **recognition** — and recognition tends to live with specialists who see these conditions every week, not in general practice.
 

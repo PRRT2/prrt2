@@ -21,14 +21,14 @@ This knowledge base grew out of one person's path to a PRRT2 diagnosis — decad
 
 This page grows with our community. If you carry a PRRT2 variant, care for someone who does, or have lived the long road to diagnosis, **your story is welcome here** — in whatever form you are comfortable sharing it.
 
-You can connect with the community and share your experience through the **PRRT2 Gene Alliance Facebook group** _(link on the [Links & Support](../resources/links-and-support.md) page)_. Stories shared there, with permission, can help shape and populate this page over time.
+You can connect with the community and share your experience through the **PRRT2 Foundation Facebook group** _(link on the [Links & Support](../resources/links-and-support.md) page)_. Stories shared there, with permission, can help shape and populate this page over time.
 
 Share as much or as little as you like. What helped you get diagnosed, what you wish someone had told you sooner, what living with PRRT2 actually feels like — all of it matters to someone who is where you once were.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 We treat patient stories with care. They are offered as lived experience, not as medical evidence or advice, and details are shared only with permission. But we hold them in high regard. For a gene that the wider world has barely heard of, the testimony of the people living with it is often the truest available picture — and, frequently, the first thing that helps the next person find their way to answers.
 {% endhint %}

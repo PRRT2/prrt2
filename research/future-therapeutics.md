@@ -22,10 +22,10 @@ Because most PRRT2 conditions arise from a **loss of function** — a missing or
 
 It is important to be clear-eyed here: **no such therapy currently exists for PRRT2.** These approaches face real scientific and practical hurdles — delivering a treatment safely to the right cells in the brain, the cost and complexity of development, and the simple fact that a condition already well controlled by an inexpensive pill is not where gene-therapy resources rush first. This is a direction of hope, not an imminent arrival.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 We will not sell false hope, and we will not withhold real hope either. The honest position is this: for most people, PRRT2's paroxysmal episodes are already highly treatable today, and the nearest gains lie in **recognition and precision** — diagnosing people who are currently missed and treating them well. The longer-horizon gene-based possibilities are real but distant.
 

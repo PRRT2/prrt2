@@ -29,10 +29,10 @@ Diet matters in a few specific ways:
 
 Responses vary from person to person, but stimulants, alcohol, and disrupted routines can all influence episode frequency for some people. This is an area where personal tracking is more useful than any general rule — watch your own pattern and discuss what you find with your specialist.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 One lever that is under-discussed in the formal literature, but that comes up repeatedly in lived experience, is **blood-sugar stability**. Some people in our community find that large swings in blood sugar — long gaps without eating, heavily refined-carbohydrate meals, the crash that follows — seem to coincide with worse or more frequent episodes, particularly the tone-loss type.
 

@@ -26,17 +26,17 @@ layout:
 
 **New here? Start with** [**The Reality of PRRT2**](about.md) **— our story, and why this exists.**
 
-**How we work:** we separate established science from our own perspective, and we cite our sources. [See how to read this site →](how-to-read.md)
+**How we work:** we separate established science from our own synthesis, and we cite our sources. [See how to read this site →](how-to-read.md)
 
 ***
 
 ### 🧭 Explore the Knowledge Base
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &amp; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &amp; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and where the science is heading next.</td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Alliance Perspectives</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td><a href="https://www.prrt2.org/perspectives">perspectives</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td><a href="resources/faq.md">faq.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &amp; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &amp; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and where the science is heading next.</td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td><a href="https://www.prrt2.org/perspectives">perspectives</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td><a href="resources/faq.md">faq.md</a></td></tr></tbody></table>
 
 ***
 
-> **Our Mission:** The PRRT2 Gene Alliance exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
+> **Our Mission:** The PRRT2 Foundation exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
 Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base, a growing patient registry, a platform in active development, and a partnership-driven organization working to make PRRT2 visible in ways it has never been before. Real science in plain language. Technology built around the real symptom constellation. Partnerships that move research forward. And a community that understands what this gene actually does to a life.
 
@@ -44,8 +44,8 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 ### 🛠️ What We're Building
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective** — Beyond the knowledge base, we are developing technology tools designed to give every PRRT2 patient a clinical voice. These are in active development.
+{% hint style="warning" %}
+**🧭 Foundation Note** — Beyond the knowledge base, we are developing technology tools designed to give every PRRT2 patient a clinical voice. These are in active development.
 {% endhint %}
 
 Most people with PRRT2 spend years — sometimes decades — unable to describe what is happening inside their own nervous system. Symptoms are episodic, neurological, and invisible to everyone else. Misdiagnosis is the norm, not the exception.

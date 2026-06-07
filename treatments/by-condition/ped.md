@@ -34,10 +34,10 @@ No clinical trial has tested the ketogenic diet specifically in PRRT2 carriers, 
 
 This is an area where the evidence is building, the logic is coherent, and the lived experience of the community warrants attention.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Alliance Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-*Our own synthesis and lived experience, offered alongside the established science, not as established medical fact.*
+*The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact.*
 
 The ketogenic diet question comes up regularly in the PRRT2 community. For GLUT1 carriers, it can be transformative. For PRRT2 carriers, the situation is less clear — but the framing that keto is "only for GLUT1" misses the broader science. The diet affects neuronal excitability through multiple pathways. Whether that translates to meaningful clinical benefit in PRRT2 is a real and open question, not a settled one.
 

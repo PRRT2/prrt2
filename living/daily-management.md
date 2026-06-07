@@ -42,10 +42,10 @@ Because PRRT2 is rare and under-recognized, you may find yourself explaining you
 
 Activities like driving deserve a thoughtful, individual conversation. The rules and reporting requirements around neurological conditions **vary by location**, and the right approach depends on your specific symptoms — particularly whether your episodes ever affect awareness or control. This is a discussion to have directly and honestly with your specialist, who can advise you on both safety and the rules where you live. This site does not give legal advice; it encourages an open conversation with your clinician.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The biggest shift many people describe after diagnosis is moving from _enduring_ a mysterious condition to _managing_ a named one. That shift is real, and it is mostly built from small, unglamorous habits: taking medication on time, keeping a record, knowing your triggers, and having a clinician who believes you.
 

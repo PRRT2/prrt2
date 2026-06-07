@@ -4,7 +4,7 @@ The [Official Resources](official-resources.md) page collects the authoritative 
 
 ## Our community
 
-* **PRRT2 Gene Alliance Facebook group** — the heart of our community, where people with PRRT2 and their families connect, compare experiences, and support one another. _(_[_Groups PRRT2_](https://facebook.com/groups/prrt2)_)_
+* **PRRT2 Foundation Facebook group** — the heart of our community, where people with PRRT2 and their families connect, compare experiences, and support one another. _(_[_Groups PRRT2_](https://facebook.com/groups/prrt2)_)_
 * **PRRT2.org** — this knowledge base. If it has helped you, sharing it with others — patients, families, even clinicians — is one of the simplest ways to extend its reach.
 
 ## Finding the right specialists
@@ -34,10 +34,10 @@ Living with a chronic, paroxysmal condition has a real emotional dimension, and 
 * **Mental health support** — counseling or therapy can help with the weight of an unpredictable condition and the long road many travel to diagnosis.
 * **Caregiver support** — if you care for someone with PRRT2, your wellbeing matters too. See [For Caregivers](../living/for-caregivers.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 For a rare condition, connection is not a soft extra — it is often where the most useful information lives. The clinician who finally understood your episodes, the trick that helped with a trigger, the reassurance that you are not imagining things: these are passed person to person, in communities like ours.
 

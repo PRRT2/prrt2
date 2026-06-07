@@ -36,10 +36,10 @@ PRRT2-related disorder is closely related to that family, but with an important 
 
 This connection is also why certain medications help. Drugs that dampen sodium channel activity — such as carbamazepine — are well established as highly effective for paroxysmal kinesigenic dyskinesia. If the core problem is sodium channels that are too easily excited, a medication that settles those channels can restore the balance. (Treatment is covered in [Treatments & Management](../treatments/how-treatment-works.md).)
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The sodium channel connection is, in our view, the single most useful idea for understanding PRRT2 — because it reframes the whole picture.
 

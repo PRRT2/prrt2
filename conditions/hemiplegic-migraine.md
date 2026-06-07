@@ -33,10 +33,10 @@ The mechanism fits. As described in [The Sodium Channel Connection](../overview/
 
 Treatment of hemiplegic migraine requires some specialist care. Certain standard migraine medications are typically avoided in hemiplegic migraine, and management often focuses on preventive treatment and identifying triggers. The medication side is covered in [Treatments & Management](../treatments/how-treatment-works.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Hemiplegic migraine is sometimes the only PRRT2 symptom a person ever has — and it may not appear until adulthood. That makes it one of the most easily missed parts of the spectrum.
 

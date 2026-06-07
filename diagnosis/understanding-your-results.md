@@ -59,10 +59,10 @@ A **genetic counselor** is specifically trained to help patients and families un
 
 Certified genetic counselors can be found through the National Society of Genetic Counselors at [findageneticcounselor.com](https://findageneticcounselor.com).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 A confirmed PRRT2 result is rarely just about the person tested. In our experience, it is the moment a family's scattered medical history — the cousin with infantile seizures, the aunt with migraines, the parent with brief, unexplained movement episodes — begins to come into focus.
 

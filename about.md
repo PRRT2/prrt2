@@ -42,7 +42,7 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 
 <figure><img src=".gitbook/assets/prrt2-sodium-channel-diagram.jpg" alt="PRRT2 sodium channel dysregulation — normal signaling vs PRRT2 mutation"><figcaption>Left: normal PRRT2 function keeps sodium channels regulated. Right: one silenced copy removes the brake — channels over-fire, producing every symptom in the PRRT2 spectrum.</figcaption></figure>
 
-I started the Gene Alliance because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
+I started the PRRT2 Foundation because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
 ***
 
@@ -78,8 +78,8 @@ Partner with genetic testing laboratories to reduce financial barriers to PRRT2 
 
 Represent the PRRT2 community in conversations with researchers, clinicians, pharmaceutical developers, and policymakers — and ensure that lived patient experience shapes how PRRT2 is understood, studied, and treated.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
 The PRRT2 Foundation is a patient-founded, patient-led organization. These goals reflect the gaps we have lived — not gaps identified from the outside.
 {% endhint %}
@@ -98,9 +98,9 @@ If you were told your symptoms are unrelated, unexplained, or untestable — thi
 
 Whether you have PKD, BFIS, dystonia, epilepsy, dysphonia, PED, or you're newly diagnosed and overwhelmed — you belong here.
 
-Join the PRRT2 Gene Alliance Facebook group, introduce yourself, and tell us your diagnosis, your country, and your biggest unanswered question. Let's start mapping this condition together.
+Join the PRRT2 Foundation Facebook group, introduce yourself, and tell us your diagnosis, your country, and your biggest unanswered question. Let's start mapping this condition together.
 
-[**Join the PRRT2 Gene Alliance →**](https://facebook.com/groups/prrt2)
+[**Join the PRRT2 Foundation →**](https://facebook.com/groups/prrt2)
 
 ***
 

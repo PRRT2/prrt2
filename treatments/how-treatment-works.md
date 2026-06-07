@@ -27,10 +27,10 @@ PRRT2 is variable from person to person, and so is treatment. What controls one 
 * **[Therapies](therapies.md)** — physical, occupational, speech, and psychological support.
 * **[Lifestyle & Diet](lifestyle-and-diet.md)** — triggers, sleep, diet, and daily measures.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Most treatment, as it is practiced today, addresses each symptom in its own clinic — the movement disorder with one specialist, the migraines with another, the voice with a third. That is reasonable, and it works. But PRRT2.org's view is that there is value in also holding the whole picture in mind: these symptoms share a single mechanistic root, and treatments that calm the underlying excitability may reach further across the constellation than treating each piece in isolation would suggest.
 

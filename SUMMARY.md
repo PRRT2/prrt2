@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PRRT2 Gene Alliance](README.md)
+* [PRRT2 Foundation](README.md)
 * [About](about.md)
 * [How to Read This Site](how-to-read.md)
 

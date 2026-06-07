@@ -8,13 +8,13 @@ We have collected them in one place, and clearly labeled the whole section, so t
 
 ## What this section is
 
-This section is the **PRRT2 Gene Alliance's own exploration** of the gene's possible reach. It draws on three things:
+This section is the **PRRT2 Foundation's own exploration** of the gene's possible reach. It draws on three things:
 
 * **Mechanism** — the established biology of PRRT2, especially its role in restraining sodium channels and stabilizing neural networks, which gives reason to expect effects beyond the well-studied phenotypes.
 * **Lived experience** — patterns reported by people who carry PRRT2 variants, including symptoms that are common in this community but absent from the formal clinical summaries.
 * **Open questions** — areas where current evidence is thin, contradictory, or simply not yet examined.
 
-Where the pages reference established science — about a particular condition, or about underlying biology — they cite it. Where they propose a PRRT2 connection, that connection is the Alliance's perspective.
+Where the pages reference established science — about a particular condition, or about underlying biology — they cite it. Where they propose a PRRT2 connection, that connection is the Foundation’s own synthesis.
 
 ## What this section is _not_
 
@@ -24,7 +24,7 @@ This is honest, careful exploration. It is here because real patients and famili
 
 ## How to read pages in this section
 
-Because the section itself is labeled as the Alliance's perspective, the individual pages inside do **not** carry the recurring 🧭 PRRT2.org Perspective box used elsewhere on the site. The whole section is, in effect, that perspective — given the room it needs.
+Because the section itself is labeled as the Foundation’s own synthesis, the individual pages inside do **not** carry the recurring 🧭 Foundation Note box used elsewhere on the site. The whole section is, in effect, that synthesis — given the room it needs.
 
 When you click into a page, treat the content as careful thinking from people close to the lived experience of PRRT2 — not as official medical fact.
 

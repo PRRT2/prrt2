@@ -38,10 +38,10 @@ Anyone exploring this should do so with **both a sleep-medicine specialist and t
 
 > This page is informational and explicitly does not recommend sodium oxybate for PRRT2. It is a controlled substance with serious risks, appropriate only when prescribed and monitored by a qualified specialist for an appropriate indication.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 We include this page deliberately, and carefully. Sodium oxybate is not a PRRT2 treatment, and we will not pretend otherwise. But the experience of sudden tone-loss episodes is real for some people in this community, those episodes can resemble cataplexy, and cataplexy is something this medication treats well.
 

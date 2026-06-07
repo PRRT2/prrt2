@@ -32,10 +32,10 @@ Because these mutations disable one of the two gene copies, the result is **hapl
 
 With too little PRRT2, the brake on neural signaling weakens. Neurotransmitter release becomes less controlled, neurons grow more excitable, and circuits lose some of their stability. When that instability produces a sudden burst of abnormal activity, it surfaces as a paroxysmal event — a seizure, an attack of abnormal movement, or a migraine.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Notice that the mechanism above is not tied to any one symptom. A weakened brake on neural signaling is a _general_ problem — and a general problem can surface wherever in the nervous system the balance happens to tip.
 

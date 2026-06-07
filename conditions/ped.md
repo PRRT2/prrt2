@@ -18,10 +18,10 @@ When a PRRT2 carrier experiences both sudden-movement triggers and exertional tr
 
 The literature itself notes this: the exercise trigger in PRRT2 has been explicitly described as "an underestimated occurrence," and recent expert reviews call for moving beyond trigger-type classification alone toward a framework that includes attack duration and medication response.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Alliance Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-*Our own synthesis and lived experience, offered alongside the established science, not as established medical fact.*
+*The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact.*
 
 The under-classification of PRRT2-PED shows up in a pattern some in this community recognize: spending years with exertional episodes that were attributed to something else. One carrier known to this site had a childhood and adult history of what was called exercise-induced asthma — breathlessness, chest involvement, and loss of function during sustained activity. Connecting those events to PRRT2 and understanding them as exertional dystonic episodes, including laryngeal and respiratory muscle involvement, only became possible after genetic diagnosis in adulthood.
 

@@ -31,10 +31,10 @@ A few practical strategies that people find helpful:
 
 For people whose episodes are well controlled on medication, triggers matter much less — the medication has raised the threshold. Trigger management is most valuable when episodes are not fully controlled, while a treatment is being adjusted, or for the residual episodes that slip through. It is a complement to medical treatment, never a replacement for it. (See [How Treatment Works](../treatments/how-treatment-works.md).)
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 There is a quiet power in knowing your own triggers and warning signs. It does not cure anything, but it shifts the balance — from feeling at the mercy of your nervous system toward working *with* it. In our experience, the people who live most easily with PRRT2 are often those who have learned their own patterns well enough to anticipate them.
 

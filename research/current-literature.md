@@ -31,10 +31,10 @@ Two gaps stand out, and they matter for the people this site is written for:
 * **The literature is heavily pediatric.** Most PRRT2 research follows infants and children. The **adult experience — long-term natural history, symptoms that persist or emerge in adulthood, the full quality-of-life picture — is comparatively understudied.**
 * **The phenotype may be wider than the literature records.** The formal catalogue of PRRT2 conditions was built from the cases that reached researchers. Symptoms reported in the patient community that fall outside that catalogue (see [Exploring the Wider Spectrum](../wider-spectrum/README.md)) have not been systematically studied.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The pediatric tilt of the research is not a criticism of the researchers — it reflects how these conditions first came to light. But it has a real consequence: an adult living with PRRT2 today often finds that the literature describing "their" gene is mostly about children who outgrew their symptoms, which does not match their experience at all.
 

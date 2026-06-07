@@ -44,10 +44,10 @@ PRRT2-related conditions are inherited in an **autosomal dominant** pattern, mea
 
 You can explore each of these in detail in [Associated Conditions](../conditions/prrt2-spectrum.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Most brief descriptions of PRRT2 focus on infants and young children — and on the conditions that resolve early. That focus is understandable, but it leaves a large part of the picture in shadow.
 

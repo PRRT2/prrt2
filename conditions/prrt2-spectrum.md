@@ -29,12 +29,12 @@ This means a single person can move through different parts of the spectrum as t
 
 Each condition above has its own page, describing what it is, how it presents, and how it is recognized.
 
-Some of these conditions are firmly established in the medical literature as PRRT2-related. This section also gives space to symptoms and connections that the PRRT2 Gene Alliance believes deserve attention but that are **not yet established** — and every page tells you clearly which is which, following the approach set out in [How to Read This Site](../how-to-read.md).
+Some of these conditions are firmly established in the medical literature as PRRT2-related. This section also gives space to symptoms and connections that the PRRT2 Foundation believes deserve attention but that are **not yet established** — and every page tells you clearly which is which, following the approach set out in [How to Read This Site](../how-to-read.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The spectrum as it is officially defined was built around the conditions that have been studied the longest and the most — the seizures, the kinesigenic movement episodes, the migraines.
 

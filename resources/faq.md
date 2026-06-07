@@ -46,10 +46,10 @@ PRRT2 conditions are autosomal dominant — each child of a carrier has about a 
 Not as established medical fact. We explore the question honestly — mechanism plus lived experience — in [Exploring the Wider Spectrum](../wider-spectrum/README.md).
 
 **Is this site medical advice?**
-No. It is educational. We separate established science from our own perspective and cite our sources; see [How to Read This Site](../how-to-read.md). Always bring decisions to a qualified clinician.
+No. It is educational. We separate established science from our own synthesis and cite our sources; see [How to Read This Site](../how-to-read.md). Always bring decisions to a qualified clinician.
 
 **Who writes this, and how is it sourced?**
-Established content is written in plain language and cited to authoritative sources (MedlinePlus, GeneReviews, OMIM, and others); our own synthesis and lived experience are clearly labeled as the Alliance's perspective. See [How to Read This Site](../how-to-read.md) and [Official Resources](official-resources.md).
+Established content is written in plain language and cited to authoritative sources (MedlinePlus, GeneReviews, OMIM, and others); our own synthesis and lived experience are clearly labeled as Foundation Notes. See [How to Read This Site](../how-to-read.md) and [Official Resources](official-resources.md).
 
 **How can I help, or get involved?**
 Share your story, join the community, and help the site reach others. See [Patient Stories](../living/patient-stories.md), [Links & Support](links-and-support.md), and [Contact](contact.md).

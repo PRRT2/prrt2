@@ -26,10 +26,10 @@ Like all medications, carbamazepine has trade-offs that a prescriber will weigh 
 
 > This page is informational, not a prescribing guide. Carbamazepine should only be started, dosed, and monitored under the care of a qualified clinician.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Two things are simultaneously true about carbamazepine, and both deserve to be said.
 

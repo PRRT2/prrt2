@@ -60,10 +60,10 @@ A clear, organized record makes a specialist visit more productive. A few practi
 * **Identify what is hardest, and what you most want to address.** Specialist visits are time-limited; knowing your priorities helps you use them well.
 * **Ask for your record to be added to your chart** so future clinicians can see what was tracked.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 In our community, self-tracking is consistently one of the things that **changes how a clinician thinks** about a patient. A neatly organized record of episodes, triggers, and responses to medication takes a presentation that might otherwise look vague or atypical and turns it into a recognizable pattern.
 

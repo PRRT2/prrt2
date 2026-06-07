@@ -40,10 +40,10 @@ Because PRRT2 is inherited and often under-recognized, a diagnosis in one person
 
 Relatives with seemingly unconnected histories — a childhood seizure here, episodes of odd movement there, migraines in someone else — may in fact share the same underlying variant. Genetic testing and genetic counseling can help a family understand its situation. The practical side of testing is covered in [Diagnosis & Genetic Testing](../diagnosis/how-to-get-tested.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 Reduced penetrance and variable expressivity are not just technical genetics terms. They are, in our view, a large part of _why PRRT2 stays hidden_.
 

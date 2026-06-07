@@ -26,10 +26,10 @@ BFIS typically **responds well to standard anti-seizure medications** — includ
 
 The more important thing for families is **recognition**. Because BFIS resolves on its own, families and clinicians may never connect it to anything else — until years later, when a relative develops PKD or hemiplegic migraine, and someone finally puts the pieces together. Genetic testing now lets that recognition happen sooner.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 A "benign" diagnosis that resolves in early childhood is good news in the moment — but it can leave a family without the information they need years later, when another symptom appears in the same person, or in a sibling or a cousin.
 

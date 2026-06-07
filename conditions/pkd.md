@@ -26,10 +26,10 @@ The "kinesigenic" trigger is the signature of the condition. A sudden movement s
 
 PKD is, in one important respect, a hopeful diagnosis: it is **notably responsive to treatment**. Low doses of sodium-channel-blocking medication — carbamazepine in particular — are well established as highly effective, often reducing or stopping episodes substantially. Many people also find that PKD lessens with age. Treatment is covered in [Treatments & Management](../treatments/how-treatment-works.md).
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 PKD is one of the most treatable conditions in neurology — and yet people can spend years undiagnosed. The brief, dramatic, movement-triggered episodes are frequently mistaken for epilepsy, or dismissed as a tic, a habit, or something psychological.
 

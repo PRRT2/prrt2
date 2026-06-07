@@ -30,10 +30,10 @@ The main public registry is **ClinicalTrials.gov** (linked on our [Official Reso
 
 Rare conditions attract not only honest research but also **unproven "treatments"** marketed to desperate families — often expensive, sometimes harmful, and rarely backed by evidence. Legitimate clinical trials do not ask you to pay large sums to participate. If something promises a cure, asks for significant out-of-pocket payment, or operates outside established medical oversight, treat it with great skepticism and bring it to your specialist before going further.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 For a condition at PRRT2's stage of understanding, the realistic near-term path forward is not a blockbuster drug trial — it is **patient registries and natural-history studies**: organized efforts to document who has PRRT2, what they experience, and how it changes over time.
 

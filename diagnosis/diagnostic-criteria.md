@@ -44,10 +44,10 @@ Because the episodes are brief, dramatic, and paroxysmal, PRRT2-related events a
 
 Distinguishing these from PRRT2-related events requires a clinician familiar with paroxysmal movement disorders. As covered in [How to Get Tested](how-to-get-tested.md), this kind of expertise is most often found at **academic movement-disorder programs** and **specialty clinics** — not always at the first stop in a local healthcare system.
 
-{% hint style="success" %}
-**🧭 PRRT2.org Perspective**
+{% hint style="warning" %}
+**🧭 Foundation Note**
 
-_PRRT2.org's own perspective — our synthesis and lived experience, offered alongside the established science, not as established medical fact._
+_The PRRT2 Foundation’s own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
 The formal diagnostic criteria for PKD were developed with **classical, pediatric, familial presentations** in mind. They are excellent for those cases. They are less reliable when the picture is atypical — when symptoms begin in adulthood, when the family history looks silent, when episodes resist the brief, kinesigenic stereotype.
 

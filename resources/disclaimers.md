@@ -20,7 +20,7 @@ PRRT2 Foundation makes every effort to provide accurate, well-sourced informatio
 
 ## Intellectual property
 
-All original content — including text, diagrams, and Alliance Perspectives articles — is the intellectual property of PRRT2 Foundation, Inc. unless otherwise attributed.
+All original content — including text, diagrams, and Expressions articles — is the intellectual property of PRRT2 Foundation, Inc. unless otherwise attributed.
 
 © 2026 PRRT2 Foundation, Inc. All rights reserved.
 

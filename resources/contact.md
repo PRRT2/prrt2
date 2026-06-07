@@ -5,7 +5,7 @@ PRRT2 Foundation is a patient-led advocacy organization dedicated to education, 
 ## Get in touch
 
 * **Email:** [contact@prrt2.org](mailto:contact@prrt2.org)
-* **Facebook:** [PRRT2 Gene Alliance community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
+* **Facebook:** [PRRT2 Foundation community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
 
 ## What we welcome
 
