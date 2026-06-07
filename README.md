@@ -1,12 +1,12 @@
 ---
 icon: dna
 cover: .gitbook/assets/letterbox_banner_hires (2).jpg
-coverY: 0
+coverY: 116.61877394636016
 layout:
   width: wide
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: false
   description:
