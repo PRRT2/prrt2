@@ -6,7 +6,7 @@ layout:
   width: wide
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: false
   description:
