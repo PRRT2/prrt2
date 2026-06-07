@@ -45,6 +45,12 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 ***
 
+***
+
+#### 🏛️ About the Foundation
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ What We're Building</strong></td><td>The patient registry, research partnerships, clinical voice tools, and foundation infrastructure in active development.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">resources/contact.md</a></td></tr></tbody></table>
+
 #### 🛠️ What We're Building
 
 {% hint style="warning" %}
@@ -55,7 +61,7 @@ Most people with PRRT2 spend years — sometimes decades — unable to describe 
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>🧠 Visual Disease Explainer</strong></td><td>Animated cellular and neurological graphics showing what PRRT2 dysfunction actually looks like in motion — for patients, families, and clinicians who need to see it to understand it.</td></tr><tr><td><strong>📋 Symptom Tracker</strong></td><td>A PRRT2-specific episode and symptom logger built around the real constellation. Tracks triggers, episode type, duration, and recovery arc. Exports a clinical summary for your neurology team.</td></tr><tr><td><strong>🧭 Diagnostic Navigator</strong></td><td>Maps a patient's symptom history against known PRRT2 presentations and generates language to bring directly to a physician — to shorten the diagnostic odyssey that most of us lived through.</td></tr></tbody></table>
 
-[Read our full organizational goals →](about.md#our-goals-as-an-organization)
+[Read the full development roadmap →](what-we-are-building.md)
 
 ***
 

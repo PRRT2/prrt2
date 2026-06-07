@@ -1,7 +1,6 @@
 # Table of contents
 
-* [PRRT2 Foundation](README.md)
-* [About](about.md)
+* [Home](README.md)
 * [How to Read This Site](how-to-read.md)
 
 ## 📖 PRRT2 Gene Overview
@@ -71,5 +70,10 @@
 * [Official Resources](resources/official-resources.md)
 * [For Your Doctor](resources/for-your-doctor.md)
 * [Links & Support](resources/links-and-support.md)
+
+## 🏛️ About the Foundation
+
+* [About — The Reality of PRRT2](about.md)
+* [What We're Building](what-we-are-building.md)
 * [Contact](resources/contact.md)
 * [Disclaimers & Legal](resources/disclaimers.md)
