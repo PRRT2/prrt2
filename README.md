@@ -1,6 +1,6 @@
 ---
 icon: dna
-cover: .gitbook/assets/prrt2-banner.png
+cover: .gitbook/assets/letterbox_banner_hires.jpg
 coverY: 0
 layout:
   width: wide
