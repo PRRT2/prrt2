@@ -1,3 +1,28 @@
+---
+description: >-
+  Paroxysmal kinesigenic dyskinesia (PKD): sudden brief involuntary movements
+  triggered by movement. The most common PRRT2 gene condition — causes,
+  diagnosis, treatment.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Paroxysmal Kinesigenic Dyskinesia (PKD)
 
 Paroxysmal kinesigenic dyskinesia — PKD — is the most common and most recognizable of the PRRT2-related conditions. Its name describes it precisely: _paroxysmal_ (it happens in sudden episodes), _kinesigenic_ (movement triggers it), and _dyskinesia_ (abnormal, involuntary movement).
