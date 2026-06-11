@@ -1,3 +1,28 @@
+---
+description: >-
+  Benign familial infantile seizures (BFIS): infantile epilepsy caused by PRRT2
+  gene mutations. Onset, prognosis, genetic testing, and what families need to
+  know.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Benign Familial Infantile Seizures (BFIS)
 
 Benign Familial Infantile Seizures — also known as **self-limited familial infantile epilepsy** — is one of the most clearly established PRRT2-related conditions. Its name reflects its three defining features: it appears in **families**, it begins in **infancy**, and it is **benign** — meaning it resolves on its own and does not affect long-term development.
