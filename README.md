@@ -1,5 +1,6 @@
 ---
 icon: dna
+description: "PRRT2 Foundation — the only patient knowledge base for PRRT2 gene mutations. PKD, BFIS, dystonia, dysphonia, and the full spectrum. Evidence-based."
 cover: .gitbook/assets/letterbox_banner_hires (3).jpg
 coverY: 116.61877394636016
 layout:
