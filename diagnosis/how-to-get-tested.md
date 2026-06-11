@@ -1,3 +1,28 @@
+---
+description: >-
+  Genetic testing for PRRT2 gene mutations: who to see, which panels include
+  PRRT2, how to read results, and what a diagnosis means for you and your
+  family.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # How to Get Tested
 
 A confirmed PRRT2 diagnosis comes from **genetic testing** — looking directly at the gene to identify a variant. This page covers the practical side: who to see, what tests are used, and what to expect.
