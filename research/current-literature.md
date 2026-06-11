@@ -1,3 +1,28 @@
+---
+description: >-
+  Recent PRRT2 gene research: long-term outcomes, seizures in adults, dystonia,
+  and why this condition is no longer considered uniformly benign. Cited and
+  current.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Current Literature
 
 This page summarizes what research has established about PRRT2 — and, just as importantly, where the research is still thin. It is written to a knowledge baseline; the science continues to move, and for the very latest you can search the live literature through the [PubMed link on our Official Resources page](../resources/official-resources.md).
@@ -29,7 +54,7 @@ More recent work has begun to **broaden the picture beyond the classic "benign" 
 Two gaps stand out, and they matter for the people this site is written for:
 
 * **The literature is heavily pediatric.** Most PRRT2 research follows infants and children. The **adult experience — long-term natural history, symptoms that persist or emerge in adulthood, the full quality-of-life picture — is comparatively understudied.**
-* **The phenotype may be wider than the literature records.** The formal catalogue of PRRT2 conditions was built from the cases that reached researchers. Symptoms reported in the patient community that fall outside that catalogue (see [Exploring the Wider Spectrum](../wider-spectrum/README.md)) have not been systematically studied.
+* **The phenotype may be wider than the literature records.** The formal catalogue of PRRT2 conditions was built from the cases that reached researchers. Symptoms reported in the patient community that fall outside that catalogue (see [Exploring the Wider Spectrum](../wider-spectrum/)) have not been systematically studied.
 
 {% hint style="warning" %}
 **🧭 Foundation Note**
