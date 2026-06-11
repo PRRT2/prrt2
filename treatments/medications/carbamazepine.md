@@ -1,3 +1,28 @@
+---
+description: >-
+  Carbamazepine for PRRT2-related PKD and seizures — often effective at low
+  doses. How it works, real tolerability picture, and when alternatives are
+  worth discussing.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Carbamazepine
 
 Carbamazepine is the **best-established treatment for PKD**, and one of the clearest success stories in the PRRT2 story. For many people with paroxysmal kinesigenic dyskinesia, it controls episodes so completely — and at such low doses — that the response is almost part of the diagnosis itself.
