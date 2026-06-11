@@ -14,7 +14,9 @@
 
 * [The PRRT2 Spectrum](conditions/prrt2-spectrum.md)
 * [Paroxysmal Kinesigenic Dyskinesia (PKD)](conditions/pkd.md)
-* [Benign Familial Infantile Seizures (BFIS)](conditions/bfis.md)
+* [Epilepsy](conditions/epilepsy.md)
+  * [Benign Familial Infantile Seizures (BFIS)](conditions/bfis.md)
+  * [Atypical Presentations](conditions/atypical-epilepsy.md)
 * [Paroxysmal Exertional Dyskinesia (PED)](conditions/ped.md)
 * [Dystonia](conditions/dystonia.md)
 * [Hemiplegic Migraine](conditions/hemiplegic-migraine.md)
