@@ -1,22 +1,34 @@
 ---
-cover: https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1600&q=80
+description: >-
+  PRRT2 Foundation: patient-founded, patient-led advocacy for people living with
+  PRRT2 gene mutations. Our story, mission, and why this knowledge base exists.
+cover: >-
+  https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=1600&q=80
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
+    size: full
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# The Reality of PRRT2
+# About — The Reality of PRRT2
 
 My name is Sean. I have a confirmed PRRT2 gene mutation — discovered later in life after decades of searching for answers.
 
@@ -40,7 +52,7 @@ This group exists to help close that gap. Some carriers never develop symptoms a
 >
 > _Every symptom traces back to that single mechanism._
 
-<figure><img src=".gitbook/assets/prrt2-sodium-channel-diagram.jpg" alt="PRRT2 sodium channel dysregulation — normal signaling vs PRRT2 mutation"><figcaption>Left: normal PRRT2 function keeps sodium channels regulated. Right: one silenced copy removes the brake — channels over-fire, producing every symptom in the PRRT2 spectrum.</figcaption></figure>
+<figure><img src=".gitbook/assets/prrt2-sodium-channel-diagram.jpg" alt="PRRT2 sodium channel dysregulation — normal signaling vs PRRT2 mutation"><figcaption><p>Left: normal PRRT2 function keeps sodium channels regulated. Right: one silenced copy removes the brake — channels over-fire, producing every symptom in the PRRT2 spectrum.</p></figcaption></figure>
 
 I started the PRRT2 Foundation because patients and families deserve more than what currently exists — real science explained in plain language, and a community that understands what this condition actually does to a life.
 
