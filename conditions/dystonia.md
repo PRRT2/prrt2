@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 gene mutation and dystonia: sustained muscle contractions, generalized
+  and focal patterns. Mechanism, diagnosis, and treatment options including
+  botulinum toxin.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Dystonia
 
 Dystonia is a movement disorder in which muscles contract involuntarily, producing twisting movements or sustained abnormal postures. It can affect a single body area or many, and many different genes are known to cause it. **PRRT2 is one of them**.
@@ -28,7 +53,7 @@ _The PRRT2 Foundation’s own synthesis and lived experience, offered alongside 
 
 The dystonia-panel route is one of the most under-discussed paths to a PRRT2 diagnosis. Many adults living with unexplained dystonic features go years before they are tested — and when they are, the gene that names their condition is sometimes already sitting on the panel that finally finds it.
 
-PRRT2.org's view is that anyone with dystonic symptoms unexplained by the usual causes should ask whether PRRT2 has been tested. If a movement-disorder gene panel was done, the answer may already be in your records. And for those whose dystonic experience extends beyond the brief, paroxysmal pattern described in the textbooks, [Exploring the Wider Spectrum](../wider-spectrum/README.md) takes up the longer-arc, persistent presentations that the formal literature has not yet caught up with.
+PRRT2.org's view is that anyone with dystonic symptoms unexplained by the usual causes should ask whether PRRT2 has been tested. If a movement-disorder gene panel was done, the answer may already be in your records. And for those whose dystonic experience extends beyond the brief, paroxysmal pattern described in the textbooks, [Exploring the Wider Spectrum](../wider-spectrum/) takes up the longer-arc, persistent presentations that the formal literature has not yet caught up with.
 {% endhint %}
 
 ## Sources
@@ -45,4 +70,4 @@ For the complete set of authoritative references, see [Official Resources](../re
 
 * [Paroxysmal Kinesigenic Dyskinesia (PKD)](pkd.md) — where dystonic movements feature most clearly in PRRT2
 * [How to Get Tested](../diagnosis/how-to-get-tested.md) — dystonia gene panels and what they cover
-* [Exploring the Wider Spectrum](../wider-spectrum/README.md) — for presentations the formal literature hasn't yet described
+* [Exploring the Wider Spectrum](../wider-spectrum/) — for presentations the formal literature hasn't yet described
