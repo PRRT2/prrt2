@@ -1,3 +1,28 @@
+---
+description: >-
+  What is the PRRT2 gene? Mutations cause paroxysmal dyskinesia, infantile
+  seizures, dystonia, and more. How sodium channel dysfunction drives every
+  PRRT2 condition.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Introduction to PRRT2
 
 ## What is PRRT2?
