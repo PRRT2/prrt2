@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 gene mutations cause PKD, benign familial infantile epilepsy, dystonia,
+  dysphonia, and paroxysmal movement disorders. One gene, one mechanism, many
+  conditions.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # The PRRT2 Spectrum
 
 PRRT2 is not a single disease. It is the cause of a **spectrum** of related conditions — a family of disorders that share one genetic root but can look strikingly different from one person to the next.
@@ -12,13 +37,13 @@ Clinically, PRRT2-related conditions are often grouped into three **core categor
 
 Within those categories sit the specific, named conditions that this section covers in detail:
 
-* **[Paroxysmal Kinesigenic Dyskinesia (PKD)](pkd.md)** — sudden episodes of involuntary movement, triggered by sudden motion.
-* **[Epilepsy](epilepsy.md)** — PRRT2-associated seizures, including self-limited infantile epilepsy and atypical presentations that can persist into adulthood.
-  * **[Benign Familial Infantile Seizures (BFIS)](epilepsy.md)** — the most common form: seizures beginning in infancy, typically resolving by age two.
-  * **[Atypical Presentations](atypical-epilepsy.md)** — persistent, adult-onset, or drug-resistant epilepsy associated with PRRT2.
-* **[Infantile Convulsions with Choreoathetosis (ICCA)](icca.md)** — the combined presentation: BFIS and PKD occurring in the same person or family, which first revealed the shared genetic root.
-* **[Hemiplegic Migraine](hemiplegic-migraine.md)** — severe migraine with temporary one-sided weakness.
-* **[Paroxysmal Exertional Dyskinesia (PED)](ped.md)** — abnormal movement brought on by sustained physical exertion.
+* [**Paroxysmal Kinesigenic Dyskinesia (PKD)**](pkd.md) — sudden episodes of involuntary movement, triggered by sudden motion.
+* [**Epilepsy**](epilepsy.md) — PRRT2-associated seizures, including self-limited infantile epilepsy and atypical presentations that can persist into adulthood.
+  * [**Benign Familial Infantile Seizures (BFIS)**](epilepsy.md) — the most common form: seizures beginning in infancy, typically resolving by age two.
+  * [**Atypical Presentations**](atypical-epilepsy.md) — persistent, adult-onset, or drug-resistant epilepsy associated with PRRT2.
+* [**Infantile Convulsions with Choreoathetosis (ICCA)**](icca.md) — the combined presentation: BFIS and PKD occurring in the same person or family, which first revealed the shared genetic root.
+* [**Hemiplegic Migraine**](hemiplegic-migraine.md) — severe migraine with temporary one-sided weakness.
+* [**Paroxysmal Exertional Dyskinesia (PED)**](ped.md) — abnormal movement brought on by sustained physical exertion.
 
 ## A spectrum that shifts across a lifetime
 
