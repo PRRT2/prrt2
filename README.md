@@ -28,12 +28,8 @@ layout:
 
 # PRRT2 Foundation
 
-**New here? Start with** [**The Reality of PRRT2**](about.md) **— our story, and why this exists.**
-
-**How we work:** we separate established science from our own synthesis, and we cite our sources. [See how to read this site →](how-to-read.md)
-
 {% hint style="success" %}
-💛 **PRRT2 Foundation is patient-built and community-funded.** Everything here exists because people believe this community deserves better. [**Support our work → Donate**](https://givebutter.com/prrt2)
+💛 **PRRT2 Foundation is building the patient resources, research advocacy, and infrastructure this diagnosis has never had.** [**Support our work → Donate**](https://givebutter.com/prrt2)
 {% endhint %}
 
 ***
@@ -50,16 +46,13 @@ layout:
 
 > **Our Mission:** The PRRT2 Foundation exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
-Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base built by people who live with this gene. Real science in plain language. A community that understands what this gene actually does to a life.
-
-***
+Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base built by people who live with this gene. Real science in plain language.
 
 ***
 
 #### 🏛️ About the Foundation
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ Development</strong></td><td>Where the Foundation is heading — our goals and what we are working toward.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">resources/contact.md</a></td></tr></tbody></table>
-
 
 ***
 
@@ -73,11 +66,7 @@ Our community Facebook group is active and open. Ask questions, share your exper
 
 ***
 
-***
-
 #### 💛 Support Our Work
-
-PRRT2 Foundation is patient-built and community-funded. Everything here — the knowledge base, the research advocacy, the patient registry we're developing — is made possible by people who believe this community deserves better resources than it has ever had.
 
 {% hint style="info" %}
 PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not yet tax-deductible.
