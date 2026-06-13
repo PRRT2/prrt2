@@ -32,6 +32,10 @@ layout:
 
 **How we work:** we separate established science from our own synthesis, and we cite our sources. [See how to read this site →](how-to-read.md)
 
+{% hint style="success" %}
+💛 **PRRT2 Foundation is patient-built and community-funded.** Everything here exists because people believe this community deserves better. [**Support our work → Donate**](https://givebutter.com/prrt2)
+{% endhint %}
+
 ***
 
 {% hint style="info" %}
@@ -77,6 +81,10 @@ PRRT2 Foundation is patient-built and community-funded. Everything here — the 
 
 {% hint style="info" %}
 PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not yet tax-deductible.
+{% endhint %}
+
+{% hint style="warning" %}
+**A note on platform fees:** When completing your donation, GiveButter may suggest an optional tip to support their platform. This tip goes to GiveButter — not to PRRT2 Foundation. You are welcome to set it to $0. Every dollar of your donation reaches us directly.
 {% endhint %}
 
 {% embed url="https://givebutter.com/prrt2" %}
