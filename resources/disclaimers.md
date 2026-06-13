@@ -16,7 +16,7 @@ PRRT2 Foundation makes every effort to provide accurate, well-sourced informatio
 
 ## Organizational status
 
-**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation based in North Port, Florida. Federal 501(c)(3) tax-exempt status will be applied for with the Internal Revenue Service. Until that designation is granted, donations to PRRT2 Foundation are not tax-deductible. We are not currently accepting donations.
+**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation based in North Port, Florida.
 
 ## Intellectual property
 
