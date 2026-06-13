@@ -69,6 +69,20 @@ Our community Facebook group is active and open. Ask questions, share your exper
 
 ***
 
+***
+
+#### 💛 Support Our Work
+
+PRRT2 Foundation is patient-built and community-funded. Everything here — the knowledge base, the research advocacy, the patient registry we're developing — is made possible by people who believe this community deserves better resources than it has ever had.
+
+{% hint style="info" %}
+PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not yet tax-deductible.
+{% endhint %}
+
+{% embed url="https://givebutter.com/prrt2" %}
+
+***
+
 **Can't find what you're looking for?** The search bar above has AI built in, or click below to ask directly.
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
