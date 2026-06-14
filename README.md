@@ -28,10 +28,6 @@ layout:
 
 # PRRT2 Foundation
 
-{% hint style="success" %}
-💛 **PRRT2 Foundation is building the patient resources, research advocacy, and infrastructure this diagnosis has never had.** [**Support our work → Donate**](donate.md)
-{% endhint %}
-
 ***
 
 {% hint style="info" %}
@@ -76,7 +72,7 @@ PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) applica
 **A note on fees:** During checkout, GiveButter will prompt you twice for additional amounts — first for an optional platform tip, and again to cover transaction processing fees. Both go to GiveButter, not to PRRT2 Foundation. You can set both to $0. Your full donation reaches us directly.
 {% endhint %}
 
-{% embed url="https://givebutter.com/prrt2" %}
+[**💛 Donate to PRRT2 Foundation →**](donate.md)
 
 ***
 
