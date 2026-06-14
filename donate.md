@@ -17,7 +17,7 @@ PRRT2 Foundation is building what this diagnosis has never had — a dedicated k
 {% endhint %}
 
 {% hint style="warning" %}
-**A note on platform fees:** When completing your donation, GiveButter may suggest an optional tip to support their platform. This tip goes to GiveButter — not to PRRT2 Foundation. You are welcome to set it to $0. Every dollar of your donation reaches us directly.
+**A note on fees:** During checkout, GiveButter will prompt you twice for additional amounts — first for an optional platform tip, and again to cover transaction processing fees. Both go to GiveButter, not to PRRT2 Foundation. You can set both to $0. Your full donation reaches us directly.
 {% endhint %}
 
 {% embed url="https://givebutter.com/prrt2" %}
