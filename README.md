@@ -29,7 +29,7 @@ layout:
 # PRRT2 Foundation
 
 {% hint style="success" %}
-💛 **PRRT2 Foundation is building the patient resources, research advocacy, and infrastructure this diagnosis has never had.** [**Support our work → Donate**](https://givebutter.com/prrt2)
+💛 **PRRT2 Foundation is building the patient resources, research advocacy, and infrastructure this diagnosis has never had.** [**Support our work → Donate**](donate.md)
 {% endhint %}
 
 ***
