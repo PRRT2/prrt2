@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [💛 Donate](https://donate.prrt2.org)
+* [💛 Donate](donate.md)
 * [How to Read This Site](how-to-read.md)
 
 ## 📖 PRRT2 Gene Overview
