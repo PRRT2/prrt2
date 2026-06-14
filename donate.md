@@ -10,27 +10,35 @@ layout:
 
 # Support Our Work
 
-PRRT2 Foundation is building the patient resources, research advocacy, and infrastructure this diagnosis has never had — a dedicated knowledge base, a patient registry, and the research partnerships that put PRRT2 on the clinical map.
-
-**Your donation funds year one of the only organization dedicated exclusively to PRRT2.**
+PRRT2 Foundation is the first organization built exclusively around this gene mutation. Most people living with a PRRT2 diagnosis spend years — sometimes decades — searching for answers that didn't exist. We're building them. A dedicated knowledge base, a patient registry, and the research partnerships that put PRRT2 on the clinical map. None of it happens without support.
 
 ***
 
-### Current Campaign — End the Search
+## Current Campaign
 
-Help launch the first patient organization dedicated exclusively to the PRRT2 gene mutation. Goal: **$2,500**.
+<figure><img src=".gitbook/assets/campaign-cover.jpg" alt="End the Search — PRRT2 Foundation Launch Campaign"></figure>
+
+Help launch the first patient organization dedicated exclusively to the PRRT2 gene mutation. Our launch campaign funds year one — the knowledge base, patient registry groundwork, and research outreach every PRRT2 patient deserves. **Goal: $2,500.**
 
 {% embed url="https://donate.prrt2.org" %}
 
 ***
 
-### Other Ways to Give
+## Donate to PRRT2 Foundation
 
-**By check:** Make payable to *PRRT2 Foundation, Inc.* — [contact us](resources/contact.md) for our mailing address.
+Make a direct gift to PRRT2 Foundation through our giving hub — general donations go toward operations, research advocacy, and the infrastructure we're building for this community.
 
-**Bank transfer:** [Contact us](resources/contact.md) directly for wire or ACH details.
+{% embed url="https://givebutter.com/prrt2" %}
 
-**Stock, crypto, donor-advised funds:** Coming soon — [get in touch](resources/contact.md) if you'd like to give this way now.
+***
+
+## Other Ways to Give
+
+**By check** — Make payable to *PRRT2 Foundation, Inc.* and [contact us](resources/contact.md) for our mailing address.
+
+**Bank transfer** — [Contact us](resources/contact.md) directly for wire or ACH details.
+
+**Stock, crypto & donor-advised funds** — Coming soon. [Get in touch](resources/contact.md) if you'd like to give this way now.
 
 ***
 
