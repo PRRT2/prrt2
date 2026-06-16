@@ -1,8 +1,11 @@
 ---
+description: >-
+  PRRT2 gene mutation — paroxysmal dyskinesia, seizures, epilepsy, dystonia, and
+  dysphonia. PRRT2 Foundation: the only knowledge base for the full PRRT2
+  spectrum.
 icon: dna
-description: "PRRT2 gene mutation — paroxysmal dyskinesia, seizures, epilepsy, dystonia, and dysphonia. PRRT2 Foundation: the only knowledge base for the full PRRT2 spectrum."
 cover: .gitbook/assets/letterbox_banner_hires.jpg
-coverY: 0
+coverY: 212.183908045977
 layout:
   width: wide
   cover:
@@ -26,7 +29,7 @@ layout:
     visible: false
 ---
 
-# PRRT2 Foundation
+# Home
 
 ***
 
@@ -48,7 +51,7 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 #### 🏛️ About the Foundation
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ Development</strong></td><td>Where the Foundation is heading — our goals and what we are working toward.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">resources/contact.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>🛠️ Development</strong></td><td>Where the Foundation is heading — our goals and what we are working toward.</td><td><a href="what-we-are-building.md">what-we-are-building.md</a></td></tr><tr><td><strong>✉️ Contact</strong></td><td>Reach the Foundation team or connect with the carrier community on Facebook.</td><td><a href="resources/contact.md">contact.md</a></td></tr></tbody></table>
 
 ***
 
