@@ -1,8 +1,8 @@
 ---
 icon: dna
 description: "PRRT2 gene mutation — paroxysmal dyskinesia, seizures, epilepsy, dystonia, and dysphonia. PRRT2 Foundation: the only knowledge base for the full PRRT2 spectrum."
-cover: .gitbook/assets/letterbox_banner_hires (3).jpg
-coverY: 116.61877394636016
+cover: .gitbook/assets/letterbox_banner_hires.jpg
+coverY: 0
 layout:
   width: wide
   cover:
