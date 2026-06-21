@@ -71,10 +71,6 @@ Our community Facebook group is active and open. Ask questions, share your exper
 PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not yet tax-deductible.
 {% endhint %}
 
-{% hint style="warning" %}
-**A note on fees:** During checkout, GiveButter will prompt you twice for additional amounts — first for an optional platform tip, and again to cover transaction processing fees. Both go to GiveButter, not to PRRT2 Foundation. You can set both to $0. Your full donation reaches us directly.
-{% endhint %}
-
 [**💛 Donate to PRRT2 Foundation →**](https://donate.prrt2.org)
 
 ***
