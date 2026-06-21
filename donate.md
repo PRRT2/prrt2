@@ -14,21 +14,13 @@ PRRT2 Foundation is the first organization built exclusively around this gene mu
 
 ***
 
-## Current Campaign
+## Make a Donation
 
 <figure><img src=".gitbook/assets/campaign-cover.jpg" alt="End the Search — PRRT2 Foundation Launch Campaign"></figure>
 
-Help launch the first patient organization dedicated exclusively to the PRRT2 gene mutation. Our launch campaign funds year one — the knowledge base, patient registry groundwork, and research outreach every PRRT2 patient deserves. **Goal: $2,500.**
+Help launch the first patient organization dedicated exclusively to the PRRT2 gene mutation. Your gift funds year one — the knowledge base, patient registry groundwork, and research outreach every PRRT2 patient deserves.
 
 {% embed url="https://donate.prrt2.org" %}
-
-***
-
-## Donate to PRRT2 Foundation
-
-Make a direct gift to PRRT2 Foundation through our giving hub — general donations go toward operations, research advocacy, and the infrastructure we're building for this community.
-
-{% embed url="https://givebutter.com/prrt2" %}
 
 ***
 
