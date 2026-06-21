@@ -20,7 +20,7 @@ PRRT2 Foundation is the first organization built exclusively around this gene mu
 
 Help launch the first patient organization dedicated exclusively to the PRRT2 gene mutation. Your gift funds year one — the knowledge base, patient registry groundwork, and research outreach every PRRT2 patient deserves.
 
-{% embed url="https://donate.prrt2.org" %}
+<a href="https://donate.prrt2.org" class="button primary" style="font-size: 18px; padding: 14px 36px;">💛 Donate Now</a>
 
 ***
 
