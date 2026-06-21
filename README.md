@@ -43,6 +43,14 @@ layout:
 
 ***
 
+<div align="center">
+
+<a href="https://donate.prrt2.org" class="button primary" style="font-size: 18px; padding: 14px 36px;">💛 Donate Now</a>
+
+</div>
+
+***
+
 > **Our Mission:** The PRRT2 Foundation exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
 Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base built by people who live with this gene. Real science in plain language.
@@ -71,7 +79,7 @@ Our community Facebook group is active and open. Ask questions, share your exper
 PRRT2 Foundation, Inc. is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not yet tax-deductible.
 {% endhint %}
 
-[**💛 Donate to PRRT2 Foundation →**](https://donate.prrt2.org)
+<a href="https://donate.prrt2.org" class="button primary" style="font-size: 18px; padding: 14px 36px;">💛 Donate Now</a>
 
 ***
 
