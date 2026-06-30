@@ -34,10 +34,12 @@ Help launch the first patient organization dedicated exclusively to the PRRT2 ge
 
 ***
 
-{% hint style="info" %}
-**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation. Our 501(c)(3) application is currently pending with the IRS. Donations are not currently tax-deductible.
+{% hint style="success" %}
+**PRRT2 Foundation, Inc.** is a recognized 501(c)(3) tax-exempt public charity. EIN: 42-3128330. Donations are tax-deductible to the full extent permitted by law.
+
+A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE (800-435-7352) WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. Registration #CH83944.
 {% endhint %}
 
 {% hint style="warning" %}
-**A note on GiveButter fees:** During checkout, GiveButter will prompt you twice — first for an optional platform tip, then to cover transaction processing fees. Both go to GiveButter, not PRRT2 Foundation. You can set both to $0. Your full donation reaches us directly.
+**A note on GiveButter fees:** During checkout, GiveButter may prompt you to add an optional tip to support their platform. This tip goes to GiveButter, not PRRT2 Foundation. You can set it to $0 — your full donation reaches us directly either way.
 {% endhint %}

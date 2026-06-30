@@ -8,7 +8,7 @@ The PRRT2 Foundation is in its early stages. This page gives an honest picture o
 
 PRRT2.org is live and actively expanding. The knowledge base is our first and current priority — completing clinical coverage, improving the diagram library, and making the site as useful as possible for patients, families, and clinicians encountering PRRT2 for the first time.
 
-The Foundation is a Florida nonprofit corporation completing its federal 501(c)(3) determination process.
+The Foundation is a Florida nonprofit corporation recognized as a 501(c)(3) public charity by the IRS, effective June 9, 2026. EIN: 42-3128330.
 
 ***
 

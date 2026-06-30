@@ -16,7 +16,9 @@ PRRT2 Foundation makes every effort to provide accurate, well-sourced informatio
 
 ## Organizational status
 
-**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation based in North Port, Florida.
+**PRRT2 Foundation, Inc.** is a Florida nonprofit corporation recognized as a 501(c)(3) tax-exempt public charity by the Internal Revenue Service, effective June 9, 2026. EIN: 42-3128330. Florida charitable solicitation registration #CH83944.
+
+A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE (800-435-7352) WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE.
 
 ## Intellectual property
 
