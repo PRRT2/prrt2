@@ -81,4 +81,5 @@
 * [About — The Reality of PRRT2](about.md)
 * [Development](what-we-are-building.md)
 * [Contact](resources/contact.md)
+* [Privacy Policy](resources/privacy-policy.md)
 * [Disclaimers & Legal](resources/disclaimers.md)
