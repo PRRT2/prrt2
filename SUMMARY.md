@@ -83,3 +83,4 @@
 * [Contact](resources/contact.md)
 * [Privacy Policy](resources/privacy-policy.md)
 * [Disclaimers & Legal](resources/disclaimers.md)
+* [Thank You](thank-you.md)
