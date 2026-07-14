@@ -43,11 +43,7 @@ layout:
 
 ***
 
-<div align="center">
-
-<a href="https://donate.prrt2.org" class="button primary" style="font-size: 18px; padding: 14px 36px;">💛 Donate Now</a>
-
-</div>
+<a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a>
 
 ***
 
@@ -65,7 +61,7 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 #### 🤝 You're Not Alone
 
-Living with PRRT2 isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
+Living with a PRRT2 Gene Mutation isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
 
 Our community Facebook group is active and open. Ask questions, share your experience, and connect with others who understand what this condition actually does to a life.
 
@@ -81,7 +77,7 @@ Our community Facebook group is active and open. Ask questions, share your exper
 A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE (800-435-7352) WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. Registration #CH83944.
 {% endhint %}
 
-<a href="https://donate.prrt2.org" class="button primary" style="font-size: 18px; padding: 14px 36px;">💛 Donate Now</a>
+<a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a>
 
 ***
 
