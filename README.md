@@ -48,9 +48,7 @@ layout:
 
 <figure><img src=".gitbook/assets/confirmed-mutation-banner.png" alt="Confirmed PRRT2 mutation? You've found your people — become a member of the PRRT2 Foundation."></figure>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Become a member of the Foundation</strong></td><td>Have a confirmed PRRT2 diagnosis? Signing up takes just a few minutes — your name is never shared, only de-identified data — and it's what lets us open doors a diagnosis alone can't.</td><td><a href="https://intake.prrt2.org">https://intake.prrt2.org</a></td></tr></tbody></table>
-
-Membership powers **research collaborations**, **new partnerships**, and **clinical trials** — and members are the **first to hear** as they open. Every person counted makes this community's voice harder to ignore.
+Have a confirmed PRRT2 diagnosis? Signing up takes just a few minutes — **your name is never shared, only de-identified data.** Membership powers **research collaborations**, **new partnerships**, and **clinical trials**, and members are the **first to hear** as they open. Every person counted makes this community's voice harder to ignore.
 
 <a href="https://intake.prrt2.org" class="button primary">✋ Get Counted — Join the Foundation</a>
 
