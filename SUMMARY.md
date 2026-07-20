@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [💛 Donate](donate.md)
+* [📋 Join the Patient Registry](https://intake.prrt2.org/)
 * [How to Read This Site](how-to-read.md)
 
 ## 📖 PRRT2 Gene Overview
