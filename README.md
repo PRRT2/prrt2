@@ -46,7 +46,7 @@ layout:
 
 #### 🤝 Join the PRRT2 Foundation
 
-<figure><img src=".gitbook/assets/confirmed-mutation-banner.png" alt="Confirmed PRRT2 mutation? You've found your people — become a member of the PRRT2 Foundation."></figure>
+[![Confirmed PRRT2 mutation? You've found your people — become a member of the PRRT2 Foundation.](.gitbook/assets/confirmed-mutation-banner.svg)](https://intake.prrt2.org)
 
 Have a confirmed PRRT2 diagnosis? Signing up takes just a few minutes — **your name is never shared, only de-identified data.** Membership powers **research collaborations**, **new partnerships**, and **clinical trials**, and members are the **first to hear** as they open. Every person counted makes this community's voice harder to ignore.
 
