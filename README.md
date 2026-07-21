@@ -40,13 +40,13 @@ layout:
 
 #### 🧭 Explore the Knowledge Base
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td></td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td></td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td></td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &#x26; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td></td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and future therapeutics.</td><td></td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td></td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td></td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td></td><td><a href="resources/faq.md">faq.md</a></td></tr><tr><td><strong>🔭 Exploring the Wider Spectrum</strong></td><td>Dysphonia, tics, and the emerging edges of the PRRT2 phenotype — where the science is still being written.</td><td></td><td><a href="wider-spectrum/README.md">README.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td></td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td></td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td></td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &#x26; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td></td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and future therapeutics.</td><td></td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td></td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td></td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td></td><td><a href="resources/faq.md">faq.md</a></td></tr><tr><td><strong>🔭 Exploring the Wider Spectrum</strong></td><td>Dysphonia, tics, and the emerging edges of the PRRT2 phenotype — where the science is still being written.</td><td></td><td><a href="wider-spectrum/">wider-spectrum</a></td></tr></tbody></table>
 
 ***
 
 #### 🤝 Join the PRRT2 Foundation
 
-<figure><img src=".gitbook/assets/confirmed-mutation-banner.svg" alt="Confirmed PRRT2 mutation? You've found your people — become a member of the PRRT2 Foundation."></figure>
+<figure><img src=".gitbook/assets/confirmed-mutation-banner.svg" alt="Confirmed PRRT2 mutation? You&#x27;ve found your people — become a member of the PRRT2 Foundation."><figcaption></figcaption></figure>
 
 Have a confirmed PRRT2 diagnosis? Signing up takes just a few minutes — **your name is never shared, only de-identified data.** Membership powers **research collaborations**, **new partnerships**, and **clinical trials**, and members are the **first to hear** as they open. Every person counted makes this community's voice harder to ignore.
 
@@ -78,6 +78,8 @@ Our community Facebook group is active and open. Ask questions, share your exper
 
 {% embed url="http://facebook.com/groups/prrt2" %}
 
+{% embed url="https://www.facebook.com/prrt2/" %}
+
 ***
 
 #### 💛 Support Our Work
@@ -88,7 +90,7 @@ Our community Facebook group is active and open. Ask questions, share your exper
 A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE (800-435-7352) WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. Registration #CH83944.
 {% endhint %}
 
-<a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a> <a aria-label="PRRT2 FOUNDATION INC" href="https://app.candid.org/profile/16663440/prrt2-foundation-inc-42-3128330/?pkId=da102788-72c3-4859-9b0d-522f4910038c" target="_blank"><img alt="PRRT2 Foundation, Inc. Candid Seal of Transparency" src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16663440/svg" /></a>
+<a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a> [![PRRT2 Foundation, Inc. Candid Seal of Transparency](https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16663440/svg)](https://app.candid.org/profile/16663440/prrt2-foundation-inc-42-3128330/?pkId=da102788-72c3-4859-9b0d-522f4910038c)
 
 _Verified 501(c)(3) — view our Candid Seal of Transparency profile._
 
