@@ -90,6 +90,10 @@ A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FR
 
 <a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a>
 
+<a aria-label="PRRT2 FOUNDATION INC" href="https://app.candid.org/profile/16663440/prrt2-foundation-inc-42-3128330/?pkId=da102788-72c3-4859-9b0d-522f4910038c" target="_blank">
+<img alt="PRRT2 Foundation, Inc. Candid Seal of Transparency" src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16663440/svg" />
+</a>
+
 ***
 
 **Can't find what you're looking for?** The search bar above has AI built in, or click below to ask directly.
