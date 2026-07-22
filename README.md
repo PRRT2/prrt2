@@ -38,6 +38,8 @@ layout:
 📱 On mobile? Tap ☰ in the top-left corner to browse all sections.
 {% endhint %}
 
+<a aria-label="PRRT2 FOUNDATION INC" href="https://app.candid.org/profile/16663440/prrt2-foundation-inc-42-3128330/?pkId=da102788-72c3-4859-9b0d-522f4910038c" target="_blank"><img alt="PRRT2 Foundation, Inc. Candid Seal of Transparency" src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16663440/svg" /></a>
+
 #### 🧭 Explore the Knowledge Base
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td></td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td></td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td></td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &#x26; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td></td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and future therapeutics.</td><td></td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td></td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td></td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td></td><td><a href="resources/faq.md">faq.md</a></td></tr><tr><td><strong>🔭 Exploring the Wider Spectrum</strong></td><td>Dysphonia, tics, and the emerging edges of the PRRT2 phenotype — where the science is still being written.</td><td></td><td><a href="wider-spectrum/README.md">README.md</a></td></tr></tbody></table>
@@ -84,9 +86,7 @@ Living with a PRRT2 Gene Mutation isn't only a scientific problem — it's the m
 
 #### 💛 Support Our Work
 
-<a href="https://donate.prrt2.org" class="button primary">💛 Donate Now</a> <a aria-label="PRRT2 FOUNDATION INC" href="https://app.candid.org/profile/16663440/prrt2-foundation-inc-42-3128330/?pkId=da102788-72c3-4859-9b0d-522f4910038c" target="_blank"><img alt="PRRT2 Foundation, Inc. Candid Seal of Transparency" src="https://widgets.guidestar.org/prod/v1/pdp/transparency-seal/16663440/svg" style="height:50px; width:auto; vertical-align:middle;" /></a>
-
-_Verified 501(c)(3) — view our Candid Seal of Transparency profile._
+<a href="https://donate.prrt2.org"><img src=".gitbook/assets/donate_banner.png" alt="Donate Now — Support the Foundation"></a>
 
 {% hint style="success" %}
 **PRRT2 Foundation, Inc.** is a recognized 501(c)(3) tax-exempt public charity. EIN: 42-3128330. Donations are tax-deductible to the full extent permitted by law.
