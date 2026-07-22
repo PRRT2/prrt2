@@ -74,9 +74,15 @@ Whether you're a patient, a caregiver, a researcher, or a clinician encountering
 
 Living with a PRRT2 Gene Mutation isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
 
-Our community Facebook group is active and open. Ask questions, share your experience, and connect with others who understand what this condition actually does to a life.
+**Two places to find us on Facebook:**
+
+🔒 **The Community** — our private group, where patients and families ask questions, share what they're going through, and connect with others who understand what this condition actually does to a life.
 
 {% embed url="http://facebook.com/groups/prrt2" %}
+
+🏛️ **The Foundation** — our official charity page, for announcements, research updates, and Foundation news.
+
+{% embed url="http://facebook.com/prrt2" %}
 
 ***
 
