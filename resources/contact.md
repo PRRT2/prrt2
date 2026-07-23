@@ -7,6 +7,10 @@ PRRT2 Foundation is a patient-led advocacy organization dedicated to education, 
 * **Email:** [contact@prrt2.org](mailto:contact@prrt2.org)
 * **Facebook:** [PRRT2 Foundation community group](https://facebook.com/groups/prrt2) — often the fastest way to reach the community and get peer support
 
+Prefer to write to us directly? Send a message through our contact form and it goes straight to the Foundation team.
+
+<a href="https://contact.prrt2.org" class="button primary" target="_blank">✉️ Send us a message →</a>
+
 ## What we welcome
 
 * **Your story.** If you carry a PRRT2 variant — or suspect you do — your experience helps others who are where you once were. See [Patient Stories](../living/patient-stories.md).
