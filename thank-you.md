@@ -33,11 +33,11 @@ Thanks for reaching out to PRRT2 Foundation. Your submission has been received, 
 
 ## What Happens Next
 
-* **You'll hear about upcoming partnerships** — the longitudinal patient registries we work alongside. Enrolling with them, in addition to registering here, helps put PRRT2 on the research map.
-* **You're part of the count.** Every submission helps us make the case — to researchers, clinicians, and drug developers — that this community exists and deserves attention.
+* **Your submission is with our team.** We review everything that comes in, and we'll be in touch if your message needs a response.
+* **You're helping the community grow.** Every person who connects with us helps make the case — to researchers, clinicians, and drug developers — that this community exists and deserves attention.
 
 {% hint style="success" %}
-**You belong here** — whether you have a confirmed diagnosis, carry the mutation without symptoms, are a family member still searching for answers, or simply wanted to get in touch.
+**You're in the right place** whether you registered, reached out with a question, are a family member still searching for answers, or simply wanted to get in touch.
 {% endhint %}
 
 ***
@@ -66,5 +66,5 @@ Didn't mean to submit, or need to correct something? [Contact us](resources/cont
 
 ***
 
-— **The PRRT2 Foundation Team**\
+— **The PRRT2 Foundation Team**\\
 [prrt2.org](https://prrt2.org)
