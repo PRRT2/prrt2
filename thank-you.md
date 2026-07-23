@@ -27,21 +27,26 @@ layout:
 
 # Thank You
 
-Thank you for registering with PRRT2 Foundation. Your information has been received, and you're now part of the first patient registry built exclusively around this gene mutation.
+Thanks for reaching out to PRRT2 Foundation. Your submission has been received, and a real person on our team will see it.
 
 ***
 
 ## What Happens Next
 
-We review every registration personally. Here's what to expect:
-
-* **We'll follow up by email** — usually within a few days — to confirm your information and answer any questions.
 * **You'll hear about upcoming partnerships** — the longitudinal patient registries we work alongside. Enrolling with them, in addition to registering here, helps put PRRT2 on the research map.
-* **You're part of the count.** Every registration helps us make the case — to researchers, clinicians, and drug developers — that this community exists and deserves attention.
+* **You're part of the count.** Every submission helps us make the case — to researchers, clinicians, and drug developers — that this community exists and deserves attention.
 
 {% hint style="success" %}
-**You belong here** — whether you have a confirmed diagnosis, carry the mutation without symptoms, or are a family member still searching for answers.
+**You belong here** — whether you have a confirmed diagnosis, carry the mutation without symptoms, are a family member still searching for answers, or simply wanted to get in touch.
 {% endhint %}
+
+***
+
+## Support Our Work
+
+PRRT2 Foundation is building the patient resources, registry, and research partnerships this diagnosis has never had. If you'd like to help make it possible:
+
+<a href="https://www.prrt2.org/donate" class="button primary">💛 Donate →</a>
 
 ***
 
