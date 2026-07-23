@@ -1,7 +1,7 @@
 ---
 description: >-
-  Thank you for registering with PRRT2 Foundation — you're now part of the first
-  patient registry for this gene mutation.
+  Thank you for your submission to PRRT2 Foundation — your information has been
+  received.
 hidden: true
 noIndex: true
 icon: circle-check
@@ -51,6 +51,8 @@ PRRT2 Foundation is building the patient resources, registry, and research partn
 ***
 
 ## While You're Here
+
+**Stay in the loop:** [Join our mailing list](https://newsletter.prrt2.org) for Foundation news, research updates, and community milestones — open to everyone.
 
 <a href="https://facebook.com/groups/prrt2" class="button primary">Join the PRRT2 Facebook Group →</a>
 
