@@ -70,7 +70,7 @@ Produce and maintain the most comprehensive, rigorously cited, plain-language re
 
 ### 🌐 Community
 
-Build and support a registry of PRRT2 patients, families, and caregivers — with particular attention to adults with atypical or late-diagnosed presentations who are currently underrepresented in the clinical literature.
+Build and support the first dedicated PRRT2 patient registry — through our partnership with CoRDS at Sanford Health — built for every stage of this condition: newly diagnosed infants and the families raising them, children as symptoms emerge and shift, and adults with atypical or late-diagnosed presentations who remain underrepresented in the clinical literature today.
 
 ### 🛠️ Technology
 
@@ -100,15 +100,15 @@ The PRRT2 Foundation is a patient-founded, patient-led organization. These goals
 
 ## You Belong Here
 
-Living with PRRT2 isn't just a scientific problem. It's missed opportunities, misdiagnoses that followed you for years, relationships affected, and careers shaped around symptoms people couldn't explain or see.
+Living with PRRT2 isn't just a scientific problem. For patients, it's missed opportunities, misdiagnoses that followed you for years, relationships affected, and careers shaped around symptoms people couldn't explain or see. For parents, it's watching your child go through an episode you can't stop, sitting through appointment after appointment hoping someone has finally heard of this gene, and carrying a quiet fear for their future that no lab result can answer.
 
-We will cover the science here — but we will never leave out the human side of what this gene does to a real life.
+We will cover the science here — but we will never leave out the human side of what this gene does to a real life, at any age.
 
 {% hint style="info" %}
 If you were told your symptoms are unrelated, unexplained, or untestable — this group is especially for you. A simple genetic test can change everything.
 {% endhint %}
 
-Whether you have PKD, BFIS, dystonia, epilepsy, dysphonia, PED, or you're newly diagnosed and overwhelmed — you belong here.
+Whether you have PKD, BFIS, dystonia, epilepsy, dysphonia, PED, you're watching your child go through it, or you're newly diagnosed and overwhelmed — you belong here.
 
 Join the PRRT2 Foundation Facebook group, introduce yourself, and tell us your diagnosis, your country, and your biggest unanswered question. Let's start mapping this condition together.
 
