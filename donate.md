@@ -1,6 +1,6 @@
 ---
 icon: heart
-description: "Support PRRT2 Foundation — fund the patient resources, research advocacy, and infrastructure this diagnosis has never had."
+description: "Fund the knowledge base, patient registry, and research this diagnosis has never had — for every PRRT2 family, whether the diagnosis is brand new or years in the making."
 layout:
   tableOfContents:
     visible: false
@@ -10,7 +10,7 @@ layout:
 
 # Support Our Work
 
-PRRT2 Foundation is the first organization built exclusively around this gene mutation. Most people living with a PRRT2 diagnosis spend years — sometimes decades — searching for answers that didn't exist. We're building them. A dedicated knowledge base, a patient registry, and the research partnerships that put PRRT2 on the clinical map. None of it happens without support.
+PRRT2 Foundation is the first organization built exclusively around this gene mutation. Whether you're holding a diagnosis that's brand new or one that took years to find, the resources haven't existed — until now. We're building the knowledge base, patient registry, and research partnerships every PRRT2 family deserves. None of it happens without you.
 
 ***
 
