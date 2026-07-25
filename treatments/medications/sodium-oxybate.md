@@ -53,10 +53,10 @@ PRRT2.org's perspective is that the right move for anyone in this situation is n
 * [MedlinePlus — Sodium Oxybate](https://medlineplus.gov/druginfo/meds/a605032.html) — U.S. National Library of Medicine, NIH (drug information)
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
-For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
+For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).
 
 ## Continue reading
 
-* [The Sodium Channel Connection](../overview/sodium-channel-connection.md) — the mechanism behind the interest
-* [Symptom Tracking](../diagnosis/symptom-tracking.md) — documenting tone-loss episodes for a sleep evaluation
+* [The Sodium Channel Connection](../../overview/sodium-channel-connection.md) — the mechanism behind the interest
+* [Symptom Tracking](../../diagnosis/symptom-tracking.md) — documenting tone-loss episodes for a sleep evaluation
 * [Other Medications](other-medications.md) — additional options across the spectrum

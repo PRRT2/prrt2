@@ -13,7 +13,7 @@ It is delivered by a specialist, often with guidance (such as EMG or imaging) to
 Botulinum toxin does not treat the paroxysmal episodes of PKD — those are handled by sodium-channel medications. Its role is for **focal, sustained overactivity**:
 
 * **Focal dystonia** — when a particular muscle group is persistently dystonic, botulinum toxin can relieve that specific area. (See [Treatment for Dystonia](../by-condition/dystonia.md).)
-* **Spasmodic (laryngeal) dysphonia** — botulinum toxin injected into the laryngeal muscles is the **standard of care** for spasmodic dysphonia, a focal dystonia of the voice. This is relevant to the voice symptoms discussed in [Dysphonia](../wider-spectrum/dysphonia.md), whether or not a PRRT2 connection is established — the voice disorder is treatable on its own terms. (See [Treatment for Dysphonia](../by-condition/dysphonia.md).)
+* **Spasmodic (laryngeal) dysphonia** — botulinum toxin injected into the laryngeal muscles is the **standard of care** for spasmodic dysphonia, a focal dystonia of the voice. This is relevant to the voice symptoms discussed in [Dysphonia](../../wider-spectrum/dysphonia.md), whether or not a PRRT2 connection is established — the voice disorder is treatable on its own terms. (See [Treatment for Dysphonia](../by-condition/dysphonia.md).)
 
 ## Practical considerations
 
@@ -28,10 +28,10 @@ Botulinum toxin does not treat the paroxysmal episodes of PKD — those are hand
 * [NIH NIDCD — Spasmodic Dysphonia](https://www.nidcd.nih.gov/health/spasmodic-dysphonia) — National Institute on Deafness and Other Communication Disorders
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
-For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
+For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).
 
 ## Continue reading
 
 * [Treatment for Dystonia](../by-condition/dystonia.md) — focal dystonia management
 * [Treatment for Dysphonia](../by-condition/dysphonia.md) — voice disorder management
-* [Dysphonia](../wider-spectrum/dysphonia.md) — the voice question in PRRT2
+* [Dysphonia](../../wider-spectrum/dysphonia.md) — the voice question in PRRT2

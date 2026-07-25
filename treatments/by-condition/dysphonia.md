@@ -28,7 +28,7 @@ If you carry a PRRT2 variant and have voice symptoms, documenting them carefully
 * [NIH NIDCD — Spasmodic Dysphonia](https://www.nidcd.nih.gov/health/spasmodic-dysphonia) — National Institute on Deafness and Other Communication Disorders
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
-For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
+For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).
 
 ## Continue reading
 

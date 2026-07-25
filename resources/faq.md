@@ -8,7 +8,7 @@ Quick answers to the questions we hear most often, each with a link to the fulle
 PRRT2 is a gene that helps keep neural circuits stable. When it doesn't work properly, it can cause a family of "paroxysmal" conditions — ones that come in sudden episodes. See [Introduction to PRRT2](../overview/introduction.md).
 
 **Is PRRT2 serious, or is it "benign"?**
-Both halves of that are true in part, which is why the word "benign" can mislead. Many PRRT2 conditions — especially PKD — are highly treatable, and many children outgrow the early symptoms. But recent research is clear that PRRT2-related conditions are **not invariably benign**: some are atypical or persistent, and adults can carry symptoms for life. See [Current Literature](current-literature.md) and [The PRRT2 Spectrum](../conditions/prrt2-spectrum.md).
+Both halves of that are true in part, which is why the word "benign" can mislead. Many PRRT2 conditions — especially PKD — are highly treatable, and many children outgrow the early symptoms. But recent research is clear that PRRT2-related conditions are **not invariably benign**: some are atypical or persistent, and adults can carry symptoms for life. See [Current Literature](../research/current-literature.md) and [The PRRT2 Spectrum](../conditions/prrt2-spectrum.md).
 
 **What conditions does PRRT2 cause?**
 Chiefly PKD, benign familial infantile seizures (BFIS), the combined ICCA syndrome, and hemiplegic migraine; less commonly PED. They form one continuous spectrum. See [The PRRT2 Spectrum](../conditions/prrt2-spectrum.md).
