@@ -15,14 +15,14 @@
 ## 🧬 Associated Conditions
 
 * [The PRRT2 Spectrum](conditions/prrt2-spectrum.md)
+* [Benign Familial Infantile Seizures (BFIS / SeLIE)](conditions/bfis.md)
 * [Paroxysmal Kinesigenic Dyskinesia (PKD)](conditions/pkd.md)
-* [Epilepsy](conditions/epilepsy.md)
-  * [Benign Familial Infantile Seizures (BFIS)](conditions/bfis.md)
-  * [Atypical Presentations](conditions/atypical-epilepsy.md)
 * [Infantile Convulsions with Choreoathetosis (ICCA)](conditions/icca.md)
+* [Hemiplegic Migraine](conditions/hemiplegic-migraine.md)
+* [Epilepsy — Beyond BFIS](conditions/epilepsy.md)
+  * [Atypical Presentations](conditions/atypical-epilepsy.md)
 * [Paroxysmal Exertional Dyskinesia (PED)](conditions/ped.md)
 * [Dystonia](conditions/dystonia.md)
-* [Hemiplegic Migraine](conditions/hemiplegic-migraine.md)
 
 ## 🔭 Exploring the Wider Spectrum
 
