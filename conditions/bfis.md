@@ -216,9 +216,13 @@ So ask. Explicitly, and in writing if needed:
 
 > "I'd like a referral to a pediatric neurologist with expertise in both epilepsy and paroxysmal movement disorders, preferably at an academic center. My child has a confirmed *PRRT2* variant, and the GeneReviews *PRRT2*-Related Disorder chapter — NIH/NCBI, updated 2024 — lists evaluation by a neurologist experienced in both epilepsy *and* movement disorders as its first recommended evaluation following diagnosis."
 
-**Why it's worded that way.** PRRT2 Foundation wrote this script and stands behind every word of it — but we deliberately put the *guideline* in your mouth instead of our name, and the reason is tactical. The clinician across the desk needs a source they already trust. GeneReviews is the reference standard neurologists and geneticists actually reach for, hosted by the NIH's National Center for Biotechnology Information. "My child's foundation recommends this" invites a busy physician to hear advocacy and move on. "The NIH-hosted clinical reference lists this as the first recommended evaluation following diagnosis" is a documented standard of care — and it hands them concrete language to write on the referral itself.
+**Why it's worded that way.** We wrote this for you, but we built it around the guideline rather than around our name — and we'd rather explain that than have it look like we're hiding.
 
-Use our name for the part where it carries weight: tell them where you found the guideline, and that there is now a foundation dedicated to this gene that they can contact. That's leverage in the right place.
+Part of it is simply practical. A clinician reading a referral request responds to sources they already know, and GeneReviews is the reference neurologists and geneticists genuinely turn to — published by the University of Washington, hosted by the NIH. Leading with it gives your physician something familiar to act on, and concrete language they can put in the referral itself.
+
+The other part is gentler, and it matters more. Asking for a referral can feel like doubting the person sitting in front of you, especially someone who has cared for your child through a frightening few months. Pointing to a published guideline takes the request out of the personal. It stops being you pushing against your doctor and becomes something the two of you are following together.
+
+Then use our name where it genuinely helps: tell them where you found the guideline, and that there's now a foundation dedicated to this gene that they're welcome to contact. Many clinicians are glad to hear a resource exists — it helps them too, with your child and with the next family who walks in.
 
 If you'd rather hand over a document than recite a paragraph, [For Your Doctor](../resources/for-your-doctor.md) is written for exactly that purpose.
 
