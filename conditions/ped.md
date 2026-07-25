@@ -68,7 +68,7 @@ The established science on this page is drawn from:
 * Zorzi G et al. Pediatric Paroxysmal Exercise-Induced Neurological Symptoms. *Front Neurol.* 2021. [DOI 10.3389/fneur.2021.658178](https://doi.org/10.3389/fneur.2021.658178)
 * Erro R et al. The spectrum of PRRT2-associated disorders: update on clinical features and pathophysiology. *Front Neurol.* 2021. [PMC7969989](https://pmc.ncbi.nlm.nih.gov/articles/PMC7969989/)
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [NORD — PRRT2-Associated Paroxysmal Movement Disorders](https://rarediseases.org/rare-diseases/prrt2-associated-paroxysmal-movement-disorders/) — National Organization for Rare Disorders
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).

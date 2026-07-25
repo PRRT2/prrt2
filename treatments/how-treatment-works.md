@@ -40,7 +40,7 @@ We are not claiming a single drug fixes everything — it does not. We are sayin
 ## Sources
 
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI (includes management guidance)
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024 (includes management guidance)
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
 

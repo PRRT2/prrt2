@@ -91,7 +91,7 @@ PRRT2.org's view is that one of the most useful pieces of advice we can give any
 ## Sources
 
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [NIH Genetic Testing Registry (GTR)](https://www.ncbi.nlm.nih.gov/gtr/genes/112476/) — testing labs and panels that include PRRT2
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).

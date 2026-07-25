@@ -39,7 +39,7 @@ Within those categories sit the specific, named conditions that this section cov
 
 * [**Paroxysmal Kinesigenic Dyskinesia (PKD)**](pkd.md) — sudden episodes of involuntary movement, triggered by sudden motion.
 * [**Epilepsy**](epilepsy.md) — PRRT2-associated seizures, including self-limited infantile epilepsy and atypical presentations that can persist into adulthood.
-  * [**Benign Familial Infantile Seizures (BFIS)**](epilepsy.md) — the most common form: seizures beginning in infancy, typically resolving by age two.
+  * [**Benign Familial Infantile Seizures (BFIS / SeLIE)**](bfis.md) — the most common form: seizures beginning in infancy, typically resolving by age two.
   * [**Atypical Presentations**](atypical-epilepsy.md) — persistent, adult-onset, or drug-resistant epilepsy associated with PRRT2.
 * [**Infantile Convulsions with Choreoathetosis (ICCA)**](icca.md) — the combined presentation: BFIS and PKD occurring in the same person or family, which first revealed the shared genetic root.
 * [**Hemiplegic Migraine**](hemiplegic-migraine.md) — severe migraine with temporary one-sided weakness.
@@ -74,7 +74,7 @@ The epilepsy arm of this spectrum deserves particular attention. BFIS — the se
 The established science on this page is drawn from:
 
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [OMIM — Entry 614386](https://omim.org/entry/614386) — Johns Hopkins University
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).

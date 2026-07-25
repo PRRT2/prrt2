@@ -28,7 +28,7 @@ The most effective care often combines several of these: medication to control e
 
 ## Sources
 
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [NIH NIDCD — Spasmodic Dysphonia](https://www.nidcd.nih.gov/health/spasmodic-dysphonia) — National Institute on Deafness and Other Communication Disorders
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).

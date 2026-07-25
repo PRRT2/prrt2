@@ -60,7 +60,7 @@ This is not a failure of treatment. Sodium channel blockers work across the spec
 
 ## Sources
 
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 * [Döring et al., *Neurology Genetics*, 2022 — PMID 36185376](https://pubmed.ncbi.nlm.nih.gov/36185376/)
 * [Clinical and neuroimaging features of PRRT2-related epilepsy in adult patients, 2024 — PMID 41554218](https://pubmed.ncbi.nlm.nih.gov/41554218/)

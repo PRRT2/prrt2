@@ -69,7 +69,7 @@ PRRT2.org's view is that closing this gap — documenting the adult and long-ter
 ## Sources
 
 * [OMIM — Entry 614386](https://omim.org/entry/614386) — Johns Hopkins University (molecular genetics and discovery history)
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
 For the complete set of authoritative references — including the live PubMed search for the latest studies — see [Official Resources](../resources/official-resources.md).

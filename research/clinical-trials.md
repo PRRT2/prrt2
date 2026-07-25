@@ -43,7 +43,7 @@ This is exactly the kind of groundwork a patient community can help build, and i
 ## Sources
 
 * [ClinicalTrials.gov](https://clinicaltrials.gov/) — U.S. National Library of Medicine trials registry
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 
 For the complete set of authoritative references, see [Official Resources](../resources/official-resources.md).
 

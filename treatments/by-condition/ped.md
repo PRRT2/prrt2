@@ -66,7 +66,7 @@ Whatever the genetic cause, sustained exertion is the trigger. Practical managem
 * Murano C et al. Effect of the ketogenic diet in excitable tissues. *Am J Physiol Cell Physiol.* 2021;320(4):C547–C553. [DOI 10.1152/ajpcell.00458.2020](https://doi.org/10.1152/ajpcell.00458.2020)
 * Tigerholm J et al. Dampening of hyperexcitability in CA1 pyramidal neurons by polyunsaturated fatty acids acting on voltage-gated ion channels. *PLoS ONE.* 2012;7(9):e44388. [PMC3458057](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3458057/)
 * Ketogenic diet efficacy in Kcna1-null potassium channelopathy mouse model. [PMC12157610](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12157610/) — preclinical evidence that KD anti-seizure effects extend beyond GLUT1 models
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 
 For the complete set of authoritative references, see [Official Resources](../../resources/official-resources.md).

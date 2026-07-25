@@ -10,7 +10,7 @@ ICCA is the name for a specific pattern: infantile seizures and a paroxysmal mov
 
 ICCA stands for **Infantile Convulsions and Choreoathetosis**. In practice, the two components are:
 
-- **The seizure component** — identical to [Benign Familial Infantile Seizures (BFIS)](epilepsy.md): clusters of focal seizures beginning in the first year of life, typically self-limited by age two.
+- **The seizure component** — identical to [Benign Familial Infantile Seizures (BFIS / SeLIE)](bfis.md): clusters of focal seizures beginning in the first year of life, typically self-limited by age two.
 - **The movement disorder component** — identical to [Paroxysmal Kinesigenic Dyskinesia (PKD)](pkd.md): sudden, brief involuntary movements triggered by sudden motion, emerging in childhood or adolescence.
 
 The name "choreoathetosis" reflects the terminology used when ICCA was first described in 1997, before the nature of the movement episodes was fully characterized. The movement component is now understood to be PKD.
@@ -31,7 +31,7 @@ The two components do not always appear in the same generation. In some families
 
 An ICCA diagnosis carries practical implications beyond confirming the gene. If a child has infantile seizures and a parent or sibling has a movement disorder, or if a child who had infantile seizures develops involuntary movements in adolescence, ICCA is the framework that connects those events. Without it, they may be worked up separately, by different specialists, without anyone recognizing the thread.
 
-PRRT2 testing is the diagnostic step that makes ICCA visible. [(GeneReviews — Familial PKD)](https://www.ncbi.nlm.nih.gov/books/NBK1460/) [(OMIM 602066)](https://omim.org/entry/602066)
+PRRT2 testing is the diagnostic step that makes ICCA visible. [(GeneReviews — PRRT2-Related Disorder)](https://www.ncbi.nlm.nih.gov/books/NBK475803/) [(OMIM 602066)](https://omim.org/entry/602066)
 
 ***
 
@@ -64,7 +64,7 @@ ICCA also stands as a model for what genetic diagnosis can do: it converted a me
 ## Sources
 
 * [OMIM — Entry 602066 (ICCA)](https://omim.org/entry/602066) — Johns Hopkins University
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [Szepetowski et al., *Nature Genetics*, 1997 — PMID 9462745](https://pubmed.ncbi.nlm.nih.gov/9462745/)
 * [Heron et al., *American Journal of Human Genetics*, 2012 — PMID 22243965](https://pubmed.ncbi.nlm.nih.gov/22243965/)
 

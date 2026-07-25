@@ -36,7 +36,7 @@ Where PED is GLUT1-related (SLC2A1), the primary intervention is dietary rather 
 
 ## Sources
 
-* [GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia](https://www.ncbi.nlm.nih.gov/books/NBK1460/) — University of Washington / NCBI
+* [GeneReviews — PRRT2-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — University of Washington / NCBI, updated 2024
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 * Zorzi G et al. Pediatric Paroxysmal Exercise-Induced Neurological Symptoms. *Front Neurol.* 2021. [DOI 10.3389/fneur.2021.658178](https://doi.org/10.3389/fneur.2021.658178)
 

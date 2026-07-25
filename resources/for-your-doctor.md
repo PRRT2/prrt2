@@ -35,7 +35,7 @@ Note: recent literature describes **atypical and occasionally drug-resistant or 
 
 ## Authoritative references for clinicians
 
-* **GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia (NBK1460):** [ncbi.nlm.nih.gov/books/NBK1460](https://www.ncbi.nlm.nih.gov/books/NBK1460/)
+* **GeneReviews — PRRT2-Related Disorder (NBK475803):** [ncbi.nlm.nih.gov/books/NBK475803](https://www.ncbi.nlm.nih.gov/books/NBK475803/)
 * **OMIM 614386:** [omim.org/entry/614386](https://omim.org/entry/614386)
 * **MedlinePlus Genetics — PRRT2:** [medlineplus.gov/genetics/gene/prrt2](https://medlineplus.gov/genetics/gene/prrt2/)
 * **PubMed** (for current literature): linked from our [Official Resources](official-resources.md) page.
