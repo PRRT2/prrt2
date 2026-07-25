@@ -29,13 +29,16 @@ The plain-language overview of the PRRT2 gene — what it does, what conditions 
 
 ---
 
-### GeneReviews — Familial Paroxysmal Kinesigenic Dyskinesia
+### GeneReviews — PRRT2-Related Disorder
 **Audience:** Clinicians, researchers, informed patients
 **Publisher:** University of Washington, Seattle — hosted by NCBI / NIH
+**Authors:** Yang K, Quiroz V, Ebrahimi-Fakhari D — last updated July 2024
 
-The in-depth clinical reference for PRRT2-related paroxysmal kinesigenic dyskinesia. Covers diagnosis, management, genetic counseling, and the evidence base in detail. Updated periodically by expert authors.
+The in-depth clinical reference for the full PRRT2 spectrum — self-limited (familial) infantile epilepsy, paroxysmal kinesigenic dyskinesia, PKD with infantile convulsions, and hemiplegic migraine. Covers diagnosis, management, surveillance, and genetic counseling in detail.
 
-[https://www.ncbi.nlm.nih.gov/books/NBK1460/](https://www.ncbi.nlm.nih.gov/books/NBK1460/)
+Note: an earlier GeneReviews chapter titled *Familial Paroxysmal Kinesigenic Dyskinesia* (NBK1460) has been **retired** by NCBI and is flagged as potentially out of date. This chapter supersedes it, and is the one to cite.
+
+[https://www.ncbi.nlm.nih.gov/books/NBK475803/](https://www.ncbi.nlm.nih.gov/books/NBK475803/)
 
 ---
 
