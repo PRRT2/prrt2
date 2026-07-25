@@ -10,13 +10,17 @@ PRRT2 is included on commercial epilepsy genetic panels by major diagnostic labo
 
 ### Primary phenotype: benign familial infantile seizures
 
-The most common PRRT2-associated epilepsy is [Benign Familial Infantile Seizures (BFIS)](bfis.md), a self-limited autosomal dominant syndrome accounting for approximately 90% of PRRT2 epilepsy presentations. Seizures typically begin between 3 and 12 months of age and resolve in the majority of cases before age two. Sodium channel blockers — particularly carbamazepine — are effective when treatment is needed, and seizure freedom is achieved in most treated patients.
+The most common PRRT2-associated epilepsy is [Benign Familial Infantile Seizures (BFIS / SeLIE)](bfis.md), a self-limited autosomal dominant syndrome. In the largest published analysis of PRRT2 cases — 1,444 reported patients — BFIE was the single largest diagnostic group in the entire PRRT2 spectrum at **41.7% (n = 602)**, ahead of paroxysmal kinesigenic dyskinesia at 38.7% (n = 560) and ICCA at 14.3% (n = 206), with only 5.3% (n = 76) carrying a different primary diagnosis. Within PRRT2-associated **epilepsy** specifically, BFIE is described in the literature as accounting for approximately **90% of cases**. [(Ebrahimi-Fakhari et al., *Brain*, 2015 — PMID 26598493)](https://pubmed.ncbi.nlm.nih.gov/26598493/) [(Scorrano et al., *Seizure*, 2024 — PMID 38749256)](https://pubmed.ncbi.nlm.nih.gov/38749256/)
+
+Seizures typically begin in the first year of life — most commonly around 4 to 7 months, with published onset ranging from roughly 3 to 20 months — and resolve in the majority of cases before age two. Sodium channel blockers — particularly carbamazepine — are effective when treatment is needed, and seizure freedom is achieved in most treated patients.
 
 For most families with a PRRT2 mutation and infantile seizures, the trajectory is favorable.
 
 ### The broader spectrum
 
 BFIS is not the full extent of PRRT2-associated epilepsy. Research has established that a subset of PRRT2 mutation carriers present with epilepsy that does not resolve in infancy — including atypical courses, focal epilepsy, drug-resistant presentations, and recurrent seizures in adulthood. A 2014 study of five confirmed PRRT2-BFIS families found that 36% of mutation carriers had atypical or non-BFIS presentations, including recurrent seizures in adulthood. [(Guerrero-López et al., *Epilepsy Research*, 2014 — PMID 25060993)](https://pubmed.ncbi.nlm.nih.gov/25060993/)
+
+These figures measure different things and are not in conflict. The 41.7% and ~90% figures above count **published patients grouped by primary diagnosis** — they describe how often BFIE is the diagnosis on record. The 36% figure counts **variant carriers within known BFIS families**, including relatives identified by cascade testing rather than by presenting to a clinic. Carrier-based counts consistently surface more atypical presentations, because they capture people who would never have been written up as a BFIE case in the first place.
 
 These presentations are covered in [Atypical Presentations](atypical-epilepsy.md).
 
