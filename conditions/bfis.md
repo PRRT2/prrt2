@@ -1,12 +1,10 @@
 ---
 description: >-
-  PRRT2-related infantile seizures (BFIS / SeLIE): what the seizures look
-  like, why they cluster, which medications work, and what the prognosis
-  really is. Written for newly diagnosed families.
-cover: >-
-  https://images.unsplash.com/photo-1617080090911-91409e3496ad?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjaGlsZCUyMGNhcmV8ZW58MHx8fHwxNzg1MjU4NTAzfDA&ixlib=rb-4.1.0&q=85
-coverY: -44.36665327007552
-coverHeight: 240
+  PRRT2-related infantile seizures (BFIS / SeLIE): what the seizures look like,
+  why they cluster, which medications work, and what the prognosis really is.
+  Written for newly diagnosed families.
+cover: ../.gitbook/assets/bfis-cover.jpg
+coverY: 0
 layout:
   width: default
   cover:
