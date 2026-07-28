@@ -216,7 +216,7 @@ Current literature is summarized in [Atypical Presentations](atypical-epilepsy.m
 ***
 
 {% hint style="warning" %}
-**🧭 Alliance Perspective**
+**🧭 Foundation Note**
 
 _The PRRT2 Foundation's own synthesis and lived experience, offered alongside the established science — not as established medical fact._
 
