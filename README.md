@@ -34,7 +34,7 @@ layout:
 
 ***
 
-**A PRRT2 mutation can cause sudden attacks of abnormal movement, infant seizures, epilepsy, and migraine — and many people carry one for years before anyone thinks to test for it.** This is the only knowledge base built for the full PRRT2 spectrum: real science in plain language, written by people who live with this gene.
+**A PRRT2 mutation can cause sudden attacks of abnormal movement (paroxysmal dyskinesia), infant seizures, epilepsy, dystonia, and migraine. Some children outgrow the seizures; the gene does not go away — and many people go years before anyone thinks to test for it.** This is the only knowledge base built for the full PRRT2 spectrum: real science in plain language, written by people who live with this gene.
 
 ***
 
