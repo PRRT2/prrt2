@@ -72,12 +72,6 @@ _Not diagnosed yet? Start with_ [_how to get tested_](diagnosis/how-to-get-teste
 
 <a href="https://donate.prrt2.org"><img src=".gitbook/assets/donate_banner.png" alt="Donate Now — Support the Foundation"></a>
 
-{% hint style="success" %}
-**PRRT2 Foundation, Inc.** is a recognized 501(c)(3) tax-exempt public charity. EIN: 42-3128330. Donations are tax-deductible to the full extent permitted by law.
-
-A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE (800-435-7352) WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. Registration #CH83944.
-{% endhint %}
-
 ***
 
 #### 🤝 You're Not Alone
