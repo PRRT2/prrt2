@@ -1,3 +1,28 @@
+---
+description: >-
+  Treating paroxysmal exertional dyskinesia: why the responsible gene
+  changes the whole approach, where the ketogenic diet fits, and how to
+  manage the exertional trigger.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Treatment for PED
 
 Treatment for paroxysmal exertional dyskinesia depends heavily on which gene is responsible. The underlying mechanisms are different, the logic of treatment is different, and applying the wrong approach is not just ineffective — it may delay access to what actually works. Before committing to a treatment plan, genetic clarification matters.

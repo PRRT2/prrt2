@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 triggers and prevention: identifying what provokes your episodes,
+  recognizing early warning signs, and the practical habits that reduce
+  attacks alongside medication.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Triggers & Prevention
 
 Because PRRT2 episodes are so often provoked rather than random, understanding *your* triggers — and building small habits around them — is one of the most practical forms of control available. This page focuses on the day-to-day, situational side of prevention. For the dietary and medical side, see [Lifestyle & Diet](../treatments/lifestyle-and-diet.md), which this page complements rather than repeats.

@@ -1,3 +1,28 @@
+---
+description: >-
+  A one-page PRRT2 summary to share with a clinician: the spectrum of
+  associated conditions, key management points, diagnostic notes, and
+  authoritative references for clinicians.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # For Your Doctor
 
 This page is designed to be **shared with a clinician** — printed, or pulled up on a screen during an appointment. Because PRRT2 is rare and under-recognized, patients often find themselves introducing the condition to clinicians who have not encountered it. This is a concise, neutral summary to make that conversation productive.

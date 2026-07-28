@@ -1,3 +1,28 @@
+---
+description: >-
+  Treating PRRT2-associated epilepsy: from short-course treatment for benign
+  familial infantile seizures to the approach for seizures that begin later,
+  persist, or come back.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Treatment for PRRT2-Associated Epilepsy
 
 PRRT2-associated epilepsy covers a range of presentations, and treatment varies with them. At one end is [Benign Familial Infantile Seizures (BFIS)](../../conditions/bfis.md) — self-limited, typically short-course, good outcomes. At the other end are atypical presentations: persistent epilepsy, adult-onset seizures, and drug-resistant cases. Most of the formal treatment guidance was built around the typical end. This page covers both.

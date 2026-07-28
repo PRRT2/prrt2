@@ -1,3 +1,28 @@
+---
+description: >-
+  Authoritative PRRT2 references collected in one place: MedlinePlus,
+  GeneReviews, OMIM, GTR, and the core institutional, consensus-level
+  sources on the PRRT2 gene.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Official Resources
 
 This page collects the primary, authoritative sources on the PRRT2 gene in one place — the core institutional references from MedlinePlus, GeneReviews, OMIM, and related bodies. These are the stable, consensus-level resources: the foundational science that the broader medical and research community has established, and what you would share with a healthcare provider or use as a starting point for your own research.

@@ -1,3 +1,28 @@
+---
+description: >-
+  How PRRT2 treatment works: no therapy changes the gene itself, but calming
+  an unstable network is highly effective, and PKD is among the most
+  treatable conditions in neurology.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # How Treatment Works for PRRT2
 
 There is no treatment that changes the PRRT2 gene itself. But that does not mean PRRT2-related conditions are untreatable — far from it. Several of them, **PKD in particular, are among the most treatable conditions in all of neurology**, often responding dramatically to the right medication at a low dose.

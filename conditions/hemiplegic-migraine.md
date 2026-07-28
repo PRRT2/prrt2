@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 and hemiplegic migraine: one-sided weakness alongside migraine, why
+  episodes are frightening but usually reversible, how PRRT2 fits in, and
+  how it is treated.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Hemiplegic Migraine
 
 Hemiplegic migraine is a rare and severe form of migraine. Its distinguishing feature is in the name: _hemiplegia_ — temporary weakness on one side of the body — accompanies the migraine. It is the only kind of migraine in which motor weakness is part of the picture.

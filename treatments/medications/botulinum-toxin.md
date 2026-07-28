@@ -1,3 +1,28 @@
+---
+description: >-
+  Botulinum toxin (Botox) in PRRT2-related conditions: how quieting one
+  overactive muscle differs from whole-nervous-system medication, its role,
+  and practical considerations.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Botulinum Toxin (Botox)
 
 Botulinum toxin is a different kind of treatment from the others in this section. Rather than calming the whole nervous system, it acts **locally** — quieting a specific overactive muscle or muscle group. That makes it valuable for the focal, targeted problems that can occur in or alongside PRRT2-related conditions, particularly **focal dystonia** and **laryngeal voice disorders**.

@@ -1,3 +1,28 @@
+---
+description: >-
+  A PRRT2 guide for caregivers: what the episodes are, what to do during
+  one, help for parents of an infant with BFIS, and how to support someone
+  without overprotecting them.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # For Caregivers
 
 If someone you love has a PRRT2-related condition — a child, a partner, a parent, a sibling — you are part of how they live well with it. This page is for you: what to understand, what to do during an episode, and how to support without overreaching.

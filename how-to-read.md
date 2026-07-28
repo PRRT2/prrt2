@@ -1,3 +1,28 @@
+---
+description: >-
+  How PRRT2.org sources what it publishes: established science, emerging
+  research, and clearly labelled Foundation notes, so you always know which
+  one you are reading.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # How to Read This Site
 
 PRRT2.org is built to do two things at once: explain the established medical science on PRRT2 clearly, and go further than the brief, mostly-pediatric descriptions found elsewhere.

@@ -1,3 +1,28 @@
+---
+description: >-
+  Plain-language glossary of PRRT2 and neurology terms: paroxysmal,
+  dyskinesia, dystonia, autosomal dominant, channelopathy, VUS, and the rest
+  of the vocabulary you will meet.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Glossary
 
 Plain-language definitions of the terms used across this site. Where a term has its own page, a link points there.

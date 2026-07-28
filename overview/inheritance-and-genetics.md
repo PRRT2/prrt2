@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 inheritance explained: autosomal dominant transmission, the 50%
+  chance of passing it on, the common c.649dupC variant, and why one
+  mutation looks different in each relative.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Inheritance & Genetics
 
 This page explains how PRRT2-related conditions are passed through families — and why the same gene can look so different from one relative to the next.

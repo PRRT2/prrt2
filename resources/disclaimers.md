@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2.org disclaimers: medical and AI assistant disclaimers, our accuracy
+  policy, the organizational status of PRRT2 Foundation, Inc., intellectual
+  property, and external links.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Disclaimers & Legal
 
 ## Medical disclaimer

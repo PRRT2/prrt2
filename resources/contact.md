@@ -1,3 +1,28 @@
+---
+description: >-
+  Contact the PRRT2 Foundation, a patient-led advocacy organization for
+  people affected by PRRT2 gene mutations. What we welcome hearing about,
+  and how to reach us.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Contact
 
 PRRT2 Foundation is a patient-led advocacy organization dedicated to education, awareness, and community for people affected by PRRT2 gene mutations. Connection with this community is a large part of why we exist.

@@ -1,3 +1,28 @@
+---
+description: >-
+  Atypical PRRT2 epilepsy: seizures that begin later, persist past age two,
+  or return. Febrile seizures, focal epilepsy, and the phenotypes beyond
+  classic benign infantile seizures.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Atypical Epilepsy Phenotypes
 
 PRRT2-associated epilepsy was initially defined by its most recognizable presentation: benign, self-limited infantile seizures that resolve before age two. That characterization remains accurate for the majority of cases. But as genetic testing has expanded and case series have accumulated, a second picture has emerged — one of atypical presentations, persistent seizures, and a population of adults whose epilepsy history predates both their genetic diagnosis and the discovery of the gene itself.

@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 clinical trials: an honest look at a sparse landscape, how to search
+  ClinicalTrials.gov properly, and why PRRT results are not PRRT2 results
+  and can badly mislead you.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Clinical Trials
 
 This page is an honest guide to the clinical-trial landscape for PRRT2 — which, at present, is sparse — and to how to look for trials and understand them without being misled.

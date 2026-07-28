@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 support and connection: our patient community, how to find
+  neurologists and movement disorder specialists, rare-disease
+  organizations, and practical and emotional support.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Links & Support
 
 The [Official Resources](official-resources.md) page collects the authoritative _scientific_ references for PRRT2. This page is different — it is about **support and connection**: the people, communities, and organizations that help with living through a PRRT2 diagnosis, not just understanding it.

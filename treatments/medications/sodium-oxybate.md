@@ -1,3 +1,28 @@
+---
+description: >-
+  Sodium oxybate and PRRT2: what the drug is established for, why part of
+  the community is interested, an honest account of the exploratory
+  evidence, and the real path to access.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Sodium Oxybate
 
 Sodium oxybate is included in this knowledge base because it is of real interest to part of the PRRT2 community — and because that interest deserves an honest, careful explanation rather than either hype or silence. **It is not an established treatment for PRRT2-related conditions.** What follows separates clearly what is established about this medication from where its possible relevance to PRRT2 is exploratory.

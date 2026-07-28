@@ -1,3 +1,28 @@
+---
+description: >-
+  ICCA (infantile convulsions with choreoathetosis): infant seizures plus
+  paroxysmal dyskinesia in one person or family. Not a separate disease, but
+  the PRRT2 spectrum overlapping.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Infantile Convulsions with Choreoathetosis (ICCA)
 
 ICCA is the name for a specific pattern: infantile seizures and a paroxysmal movement disorder occurring in the same person or family. It is not a third, separate disease. It is what the PRRT2 spectrum looks like when two of its expressions appear together — and it was the clinical observation that first suggested a shared genetic root long before the gene was known.

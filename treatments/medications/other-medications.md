@@ -1,3 +1,28 @@
+---
+description: >-
+  Other medications used in PRRT2 conditions: oxcarbazepine, phenytoin,
+  acetazolamide, clonazepam, levetiracetam, valproate, and the options for
+  exertional episodes in PED.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Other Medications
 
 This page covers medications that are used in PRRT2-related conditions beyond the dedicated pages for [Carbamazepine](carbamazepine.md), [Lacosamide](lacosamide.md), [Botulinum Toxin](botulinum-toxin.md), and [Sodium Oxybate](sodium-oxybate.md). Some of these are well-established for specific presentations; others are in use but with a smaller evidence base.

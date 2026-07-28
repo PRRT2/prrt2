@@ -1,3 +1,28 @@
+---
+description: >-
+  Paroxysmal exertional dyskinesia (PED) and PRRT2: episodes provoked by
+  sustained exercise, why PRRT2-PED is underrecognized, and how it differs
+  from GLUT1 deficiency.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Paroxysmal Exertional Dyskinesia (PED)
 
 Paroxysmal exertional dyskinesia is a movement disorder in which episodes of involuntary movement — typically dystonia, chorea, or a combination — are brought on by sustained physical activity. Unlike the brief, movement-triggered episodes of PKD, PED episodes arise after prolonged exertion and tend to last longer, usually settling with rest.

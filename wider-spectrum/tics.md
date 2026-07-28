@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 and tics: what is known about tic disorders, why a PRRT2 question
+  arises, what the established literature does and does not say, and what
+  PRRT2.org observes.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Tics
 
 A **tic** is a sudden, brief, repetitive movement or sound that the person did not consciously intend. Tics can be motor — eye blinking, facial movements, shoulder shrugs, head jerks — or vocal — throat clearing, sniffing, words, sounds. They commonly come and go, intensify with stress, and can sometimes be briefly suppressed.

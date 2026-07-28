@@ -1,3 +1,28 @@
+---
+description: >-
+  Frequently asked questions about PRRT2: what the gene does, which
+  conditions it causes, how it is diagnosed and treated, how it is
+  inherited, and how this site is sourced.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Frequently Asked Questions
 
 Quick answers to the questions we hear most often, each with a link to the fuller page. Nothing here is medical advice — see [How to Read This Site](../how-to-read.md) for how we source what we publish.

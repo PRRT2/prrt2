@@ -30,7 +30,7 @@ layout:
     visible: false
 ---
 
-# Home
+# PRRT2 Gene Mutation: Conditions, Testing, and Treatment
 
 ***
 

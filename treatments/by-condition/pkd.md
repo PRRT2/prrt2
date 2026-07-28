@@ -1,3 +1,28 @@
+---
+description: >-
+  Treating paroxysmal kinesigenic dyskinesia: low-dose carbamazepine as
+  first-line therapy, what to do when it is not the full answer, trigger
+  management, and the long view.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Treatment for PKD
 
 Paroxysmal kinesigenic dyskinesia is, for most people, **highly treatable** — and the approach is well established. This page describes how that treatment typically unfolds.

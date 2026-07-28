@@ -1,3 +1,28 @@
+---
+description: >-
+  Non-drug therapies for PRRT2 conditions: physical, occupational, and
+  speech-language therapy plus psychological support, and what each
+  contributes alongside medication.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Therapies
 
 Medication is the centerpiece of treatment for the paroxysmal PRRT2 conditions, but it is not the whole picture. A range of **non-drug therapies** support function, comfort, and wellbeing — sometimes alongside medication, sometimes for the parts of life that medication does not reach.

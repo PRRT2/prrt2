@@ -1,3 +1,28 @@
+---
+description: >-
+  How a PRRT2 diagnosis is made: clinical criteria for PKD and the other
+  PRRT2 conditions, the role of family history and genetic testing, and what
+  PRRT2 episodes get mistaken for.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Diagnostic Criteria
 
 For most PRRT2-related conditions, the diagnosis is built from **clinical features**, **family history**, and **genetic confirmation**, taken together. This page covers how clinicians formally recognize the most common presentations — especially PKD — and the conditions PRRT2 events are most often mistaken for.

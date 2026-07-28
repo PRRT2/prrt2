@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 and dysphonia: voice breaks, hoarseness, strain, and loss of voice.
+  What the case reports show, why the link is not established, and what
+  living with it is actually like.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Dysphonia
 
 Dysphonia is the medical term for disordered voice production — difficulty making sound, hoarseness, voice breaks, strain, or partial loss of voice. When the cause is neurological rather than structural injury or inflammation, the result is called a **neurogenic dysphonia**. The most recognized form of neurogenic dysphonia is **spasmodic dysphonia**, also known as **laryngeal dystonia**: involuntary spasms of the laryngeal muscles during speech.

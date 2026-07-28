@@ -1,3 +1,28 @@
+---
+description: >-
+  Treating voice symptoms and dysphonia: getting the voice disorder properly
+  diagnosed first, options for spasmodic and other dysphonias, and an honest
+  note on the PRRT2 question.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Treatment for Dysphonia
 
 An important point first: as explained in [Dysphonia](../../wider-spectrum/dysphonia.md), a connection between PRRT2 and dysphonia is **not established**. But the good news for anyone living with voice symptoms is that **the voice disorder can usually be evaluated and treated on its own terms** — independently of whether a PRRT2 link is ever proven.

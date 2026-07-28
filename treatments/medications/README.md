@@ -1,3 +1,28 @@
+---
+description: >-
+  Medications used in PRRT2-related conditions: sodium-channel modulators
+  including carbamazepine and lacosamide, botulinum toxin, sodium oxybate,
+  and the alternatives.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Medications
 
 This subsection covers the medications used in PRRT2-related conditions, one page each. They fall into a few groups:

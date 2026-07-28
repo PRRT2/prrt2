@@ -1,3 +1,28 @@
+---
+description: >-
+  Treating dystonia in the PRRT2 context: how the brief paroxysmal dystonia
+  of PKD differs from focal sustained dystonia, and why the two call for
+  different approaches.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Treatment for Dystonia
 
 How dystonia is treated in the PRRT2 context depends on **what kind of dystonia it is** — the brief, paroxysmal dystonia of PKD, or a more focal, sustained dystonic problem. The two call for different approaches.

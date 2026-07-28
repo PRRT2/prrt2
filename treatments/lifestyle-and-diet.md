@@ -1,3 +1,28 @@
+---
+description: >-
+  Lifestyle and diet with PRRT2: managing triggers, sleep, what and when you
+  eat, and where caffeine and alcohol fit in. Genuine parts of management,
+  not footnotes to it.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Lifestyle & Diet
 
 Because PRRT2 episodes are so often **provoked**, the ordinary details of daily life — how you move, how you sleep, what and when you eat, how much stress you are under — are a genuine part of management, not a footnote to it. None of this replaces medication where medication is needed, but for many people it meaningfully changes how often episodes occur.

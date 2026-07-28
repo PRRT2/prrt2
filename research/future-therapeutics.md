@@ -1,3 +1,28 @@
+---
+description: >-
+  Where PRRT2 treatment may be heading: getting more from the medications
+  that already work, what the mechanism suggests, and an honest look at
+  longer-term gene-based approaches.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Future Therapeutics
 
 It is natural to want to know where treatment is heading. This page looks ahead honestly — distinguishing what is realistically on the horizon from what is, for now, only a hope. We think hope is better served by honesty than by overpromising.

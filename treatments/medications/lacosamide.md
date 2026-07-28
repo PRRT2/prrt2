@@ -1,3 +1,28 @@
+---
+description: >-
+  Lacosamide for PRRT2 conditions: how it acts on sodium channels
+  differently from carbamazepine, when it is used for paroxysmal movement
+  disorders, and practical considerations.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Lacosamide
 
 Lacosamide is a newer anti-seizure medication that, like carbamazepine, acts on sodium channels — but through a somewhat different mechanism. It has become a useful alternative for paroxysmal movement disorders in people who do not tolerate or do not fully respond to first-line treatment.

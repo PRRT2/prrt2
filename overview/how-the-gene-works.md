@@ -1,3 +1,28 @@
+---
+description: >-
+  How the PRRT2 gene works: the protein it makes, where it acts at the
+  synapse, what it does to neurotransmitter release, and what changes when
+  the gene carries a mutation.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # How the PRRT2 Gene Works
 
 The [Introduction to PRRT2](introduction.md) described the gene in broad strokes. This page looks more closely at what the PRRT2 gene and its protein actually do — and what changes when the gene carries a mutation.

@@ -1,3 +1,28 @@
+---
+description: >-
+  How to track PRRT2 episodes: what to record for each attack, why video
+  matters, and how to bring a record your neurologist can actually use
+  without it taking over your life.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Symptom Tracking
 
 Careful self-tracking is one of the most useful — and most underrated — tools both for getting a PRRT2 diagnosis right and for managing it over time. Episodes are brief, often happen between appointments, and frequently look very different to the person experiencing them than to an observer. Your record is often the most reliable data your clinician has.

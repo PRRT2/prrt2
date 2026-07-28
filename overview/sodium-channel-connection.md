@@ -1,3 +1,28 @@
+---
+description: >-
+  PRRT2 and sodium channels: how the protein acts as a brake on neuronal
+  firing, why a single mechanism produces both seizures and movement
+  attacks, and what a channelopathy is.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # The Sodium Channel Connection
 
 The earlier pages described PRRT2 as a **brake** on neural signaling. This page zooms in on one part of that brake — its effect on sodium channels — because it helps explain something puzzling: how a single gene can produce so many different symptoms.

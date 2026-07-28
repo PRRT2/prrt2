@@ -1,3 +1,28 @@
+---
+description: >-
+  Living with a PRRT2 condition day to day: building a care team, medication
+  routines, handling unpredictability, work and school disclosure, self-
+  advocacy, and driving safety.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Daily Management
 
 A PRRT2 diagnosis is not the end of a story — for many people it is the beginning of finally managing well. This page is about the practical, everyday business of living with a PRRT2-related condition: your care team, your routines, and the ordinary logistics of a paroxysmal condition.

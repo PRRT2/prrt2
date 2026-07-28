@@ -1,3 +1,28 @@
+---
+description: >-
+  Understanding PRRT2 genetic test results: what pathogenic, VUS, and no
+  variant found actually mean, heterozygous versus homozygous, and when to
+  work with a genetic counselor.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Understanding Your Results
 
 A genetic test returns one of several possible answers. This page explains what each kind of result actually means — and what to do next.

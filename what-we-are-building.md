@@ -1,3 +1,28 @@
+---
+description: >-
+  What the PRRT2 Foundation is building: an honest picture of where we are
+  now with the knowledge base and the community, and the direction we are
+  heading next.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # What We're Building
 
 The PRRT2 Foundation is in its early stages. This page gives an honest picture of where we are and the direction we are heading.

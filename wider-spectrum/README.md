@@ -1,3 +1,28 @@
+---
+description: >-
+  Exploring the wider PRRT2 spectrum: symptoms patients report that the
+  literature has not yet established, how we label uncertainty, and how to
+  read the pages in this section.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Exploring the Wider Spectrum
 
 Welcome to a different kind of section.

@@ -1,3 +1,28 @@
+---
+description: >-
+  Real stories from people living with PRRT2 gene mutations, including our
+  founder's road to a diagnosis found in adulthood, and how to share your
+  own story with us.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Patient Stories
 
 Behind every line of clinical description on this site is a person who lived it. This page is for their stories — the lived experience of PRRT2, in the words of the people who carry it and the families who love them.
