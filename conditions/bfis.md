@@ -313,3 +313,4 @@ For the complete set of authoritative references, see [Official Resources](../re
 * [Understanding Your Results](../diagnosis/understanding-your-results.md) — reading a genetic report
 * [For Caregivers](../living/for-caregivers.md) — the practical and emotional side
 * [The PRRT2 Spectrum](prrt2-spectrum.md) — how all the phenotypes relate
+* [The Expression Continues](https://www.prrt2.org/expressions/articles/the-expression-continues) — an Expression on why "they'll grow out of it" doesn't tell the whole story

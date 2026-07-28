@@ -79,3 +79,4 @@ For the complete set of authoritative references — including the live PubMed s
 * [Clinical Trials](clinical-trials.md) — the state of trials and how to find them
 * [Future Therapeutics](future-therapeutics.md) — where treatment may be heading
 * [The Sodium Channel Connection](../overview/sodium-channel-connection.md) — the mechanism behind the findings
+* [The Expression Continues](https://www.prrt2.org/expressions/articles/the-expression-continues) — an Expression tracing that shift through the field's own reference text

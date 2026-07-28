@@ -78,3 +78,12 @@ PRRT2 appears on commercial epilepsy genetic panels for a reason. Expanded genet
 
 Until systematic testing reaches adults, the true scope of PRRT2-related epilepsy in that population remains unknown. That is not a gap the existing literature can fill. It is one that awareness, advocacy, and access can.
 {% endhint %}
+
+***
+
+## Continue reading
+
+* [Epilepsy — Beyond BFIS](epilepsy.md) — the fuller picture of PRRT2-associated seizures
+* [Benign Familial Infantile Seizures (BFIS / SeLIE)](bfis.md) — the self-limited presentation these phenotypes depart from
+* [The PRRT2 Spectrum](prrt2-spectrum.md) — how the phenotypes relate to one another
+* [The Expression Continues](https://www.prrt2.org/expressions/articles/the-expression-continues) — an Expression on the field's shift away from "grow out of it"
