@@ -1,10 +1,8 @@
 ---
 description: >-
-  Seizures in babies, children, and adults caused by the PRRT2 gene. Most
-  PRRT2 epilepsy is infant seizures — also called infantile convulsions, BFIS,
-  BFIE, or SeLIE — that begin around 4 to 7 months and stop by age two. This
-  page explains what that means in plain language, and covers the seizures that
-  start later, last longer, or come back.
+  Seizures in babies, children, and adults caused by the PRRT2 gene. Most PRRT2
+  epilepsy is infant seizures — also called infantile convulsions, BFIS, BFIE,
+  or SeLIE — that begin around 4 to 7 months an
 layout:
   width: default
   title:
@@ -25,7 +23,7 @@ layout:
     visible: true
 ---
 
-# Epilepsy and Seizures — Beyond Infant Seizures (BFIS)
+# Epilepsy — Beyond BFIS
 
 PRRT2 is a gene. When it carries a mutation, one of the things it can cause is seizures — and the most common form by far is seizures that start in the first year of life and stop on their own before age two.
 
@@ -40,19 +38,19 @@ If that is why you are here, you are in the right place, but this is not the pag
 {% endhint %}
 
 **My baby or infant is having seizures. We just got a PRRT2 result.**\
-→ Go to **[Benign Familial Infantile Seizures (BFIS / SeLIE)](bfis.md)**. That page is written for you specifically — what the seizures look like, why they come in clusters, what the tests show, what the prognosis actually is, and how to get to the right specialist. It is the most detailed page on this site.
+→ Go to [**Benign Familial Infantile Seizures (BFIS / SeLIE)**](bfis.md). That page is written for you specifically — what the seizures look like, why they come in clusters, what the tests show, what the prognosis actually is, and how to get to the right specialist. It is the most detailed page on this site.
 
 **My child's seizures didn't stop by age two, or they started later than expected, or they came back.**\
-→ Start with **[Atypical Presentations](atypical-epilepsy.md)**, then read the deep-dive sections below.
+→ Start with [**Atypical Presentations**](atypical-epilepsy.md), then read the deep-dive sections below.
 
 **My child had seizures as a baby, and now has sudden involuntary movements.**\
-→ Go to **[Infantile Convulsions with Choreoathetosis (ICCA)](icca.md)**.
+→ Go to [**Infantile Convulsions with Choreoathetosis (ICCA)**](icca.md).
 
 **I'm an adult with unexplained or hard-to-control epilepsy and a family history of seizures or movement problems.**\
-→ Read the sections below, then **[How to Get Tested](../diagnosis/how-to-get-tested.md)**.
+→ Read the sections below, then [**How to Get Tested**](../diagnosis/how-to-get-tested.md).
 
 **I don't know where I fit yet.**\
-→ **[The PRRT2 Spectrum](prrt2-spectrum.md)** lays out every condition this one gene can cause and how they connect.
+→ [**The PRRT2 Spectrum**](prrt2-spectrum.md) lays out every condition this one gene can cause and how they connect.
 
 ***
 
@@ -60,12 +58,12 @@ If that is why you are here, you are in the right place, but this is not the pag
 
 BFIS is the abbreviation you will see everywhere in PRRT2 material, usually without anyone explaining it. Taken apart, it is four ordinary words:
 
-| Letter | Word | What it means in plain language |
-| ------ | ---- | ------------------------------- |
-| **B** | Benign | Expected to go away on its own, and expected to leave no lasting harm. It says nothing about how frightening it is to live through. |
-| **F** | Familial | It runs in families. It is inherited, not caused by anything that happened during pregnancy, birth, or since. |
-| **I** | Infantile | It affects babies and infants — the first year of life, most often around **4 to 7 months old**. |
-| **S** | Seizures | Also called **convulsions**, **fits**, or **spells**, depending on who is talking and when they trained. |
+| Letter | Word      | What it means in plain language                                                                                                     |
+| ------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **B**  | Benign    | Expected to go away on its own, and expected to leave no lasting harm. It says nothing about how frightening it is to live through. |
+| **F**  | Familial  | It runs in families. It is inherited, not caused by anything that happened during pregnancy, birth, or since.                       |
+| **I**  | Infantile | It affects babies and infants — the first year of life, most often around **4 to 7 months old**.                                    |
+| **S**  | Seizures  | Also called **convulsions**, **fits**, or **spells**, depending on who is talking and when they trained.                            |
 
 So **BFIS = inherited seizures in babies that are expected to stop.**
 
@@ -78,9 +76,9 @@ You may also see these names on paperwork. They describe the same condition:
 * **Infantile convulsions** — the everyday phrase many parents and older clinicians use
 * **Fukuyama-Watanabe-Vigevano syndrome** — after the clinicians who first described it
 
-In 2017 the International League Against Epilepsy replaced the word *benign* with **self-limited**, and reaffirmed that in its 2022 classification of infant epilepsy syndromes. The reasoning was straightforward: *self-limited* describes what actually happens — the seizures stop on their own timeline — without implying that watching your baby convulse is a mild experience.
+In 2017 the International League Against Epilepsy replaced the word _benign_ with **self-limited**, and reaffirmed that in its 2022 classification of infant epilepsy syndromes. The reasoning was straightforward: _self-limited_ describes what actually happens — the seizures stop on their own timeline — without implying that watching your baby convulse is a mild experience.
 
-If your neurologist says BFIS and your genetic report says SeLIE, they mean the same thing. Details on all of it are on the **[BFIS / SeLIE page](bfis.md)**.
+If your neurologist says BFIS and your genetic report says SeLIE, they mean the same thing. Details on all of it are on the [**BFIS / SeLIE page**](bfis.md).
 
 ***
 
@@ -123,7 +121,7 @@ What that looks like in practice, in plain terms:
 
 Medication is often still needed, because the seizure burden in that first year can be too high to watch and wait. Sodium channel–blocking medications are the class described as effective, and seizure freedom is achieved in most treated infants. Which specific medication suits your child is a decision for your pediatric neurologist — see [Treatment for BFIS](../treatments/by-condition/bfis.md) and [How Treatment Works for PRRT2](../treatments/how-treatment-works.md).
 
-**For most families with a PRRT2 mutation and infant seizures, the trajectory is favorable.** The full detail — clusters, medication evidence, prognosis, developmental monitoring, how to get the right referral — is on the **[BFIS / SeLIE page](bfis.md)**.
+**For most families with a PRRT2 mutation and infant seizures, the trajectory is favorable.** The full detail — clusters, medication evidence, prognosis, developmental monitoring, how to get the right referral — is on the [**BFIS / SeLIE page**](bfis.md).
 
 ### The broader spectrum
 
@@ -149,7 +147,7 @@ Onset in the first weeks of life is unusual for this condition but reported. In 
 
 ### 3. Fever-related seizures
 
-PRRT2 variants have been identified in some patients with **febrile seizures** and **febrile seizures plus (FS+)** — seizure syndromes triggered or accompanied by fever. Classic PRRT2 infant seizures are characteristically *without* fever, so a fever-associated pattern is one of the ways a PRRT2 case can look unfamiliar. Current guidance recommends treating fevers promptly in children with this diagnosis.
+PRRT2 variants have been identified in some patients with **febrile seizures** and **febrile seizures plus (FS+)** — seizure syndromes triggered or accompanied by fever. Classic PRRT2 infant seizures are characteristically _without_ fever, so a fever-associated pattern is one of the ways a PRRT2 case can look unfamiliar. Current guidance recommends treating fevers promptly in children with this diagnosis.
 
 ### 4. Seizures that start in adolescence or adulthood
 
@@ -209,7 +207,7 @@ Current literature is summarized in [Atypical Presentations](atypical-epilepsy.m
 * Was this a PRRT2 **sequence variant** or a **16p11.2 deletion**?
 * Can we have the **variant name in writing** for our records?
 * What movement or migraine symptoms in later childhood should bring us back to you?
-* *(For adults)* Given my seizure history and family history, is a **genetic epilepsy panel** appropriate?
+* _(For adults)_ Given my seizure history and family history, is a **genetic epilepsy panel** appropriate?
 
 [For Your Doctor](../resources/for-your-doctor.md) is written to be handed to a clinician who has not encountered this gene before.
 
@@ -241,7 +239,7 @@ And if your child is the one whose seizures did not stop, or who has a developme
 
 **If you are the parent of a baby or infant with seizures**
 
-* **[Benign Familial Infantile Seizures (BFIS / SeLIE)](bfis.md)** — the main page for you: what the seizures look like, why they cluster, what the tests show, prognosis, and how to get the right referral
+* [**Benign Familial Infantile Seizures (BFIS / SeLIE)**](bfis.md) — the main page for you: what the seizures look like, why they cluster, what the tests show, prognosis, and how to get the right referral
 * [Treatment for BFIS](../treatments/by-condition/bfis.md) — what the evidence supports
 * [For Caregivers](../living/for-caregivers.md) — the practical and emotional side
 * [Symptom Tracking](../diagnosis/symptom-tracking.md) — how to keep the record that pays off later
@@ -272,18 +270,18 @@ And if your child is the one whose seizures did not stop, or who has a developme
 
 ## Sources
 
-* [GeneReviews — *PRRT2*-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — Yang K, Quiroz V, Ebrahimi-Fakhari D. University of Washington / NCBI, updated July 2024
+* [GeneReviews — _PRRT2_-Related Disorder](https://www.ncbi.nlm.nih.gov/books/NBK475803/) — Yang K, Quiroz V, Ebrahimi-Fakhari D. University of Washington / NCBI, updated July 2024
 * [MedlinePlus Genetics — PRRT2 gene](https://medlineplus.gov/genetics/gene/prrt2/) — U.S. National Library of Medicine, NIH
 * [NORD — PRRT2-Associated Paroxysmal Movement Disorders](https://rarediseases.org/rare-diseases/prrt2-associated-paroxysmal-movement-disorders/)
-* Ebrahimi-Fakhari D, Saffari A, Westenberger A, Klein C. The evolving spectrum of *PRRT2*-associated paroxysmal diseases. *Brain.* 2015;138:3476–3495. [PubMed 26598493](https://pubmed.ncbi.nlm.nih.gov/26598493/)
-* Scorrano G, et al. Exploring epileptic phenotypes in *PRRT2*-related disorders. *Seizure.* 2024. [PubMed 38749256](https://pubmed.ncbi.nlm.nih.gov/38749256/)
-* Guerrero-López R, et al. Atypical course in individuals from Spanish families with benign familial infantile seizures and mutations in *PRRT2*. *Epilepsy Res.* 2014. [PubMed 25060993](https://pubmed.ncbi.nlm.nih.gov/25060993/)
-* Komar A, et al. Phenotypic spectrum of *PRRT2*-related epilepsy — international cohort. *Neurol Genet.* 2025. [PubMed 40401013](https://pubmed.ncbi.nlm.nih.gov/40401013/)
-* Clinical and neuroimaging features of *PRRT2*-related epilepsy in adult patients. 2024. [PubMed 41554218](https://pubmed.ncbi.nlm.nih.gov/41554218/)
-* Lee J, Kim YO, Lim BC, Lee J. *PRRT2*-positive self-limited infantile epilepsy. *Epilepsia Open.* 2023;8:436–443. [PubMed 36775847](https://pubmed.ncbi.nlm.nih.gov/36775847/)
-* Döring JH, Saffari A, Bast T, et al. The phenotypic spectrum of *PRRT2*-associated paroxysmal neurologic disorders in childhood. *Biomedicines.* 2020;8:456. [PubMed 33126500](https://pubmed.ncbi.nlm.nih.gov/33126500/)
-* Millevert C, Weckhuysen S; ILAE Genetics Commission. Self-limited familial epilepsy syndromes with onset in neonatal age and infancy. *Epileptic Disord.* 2023;25:445–453. [PubMed 36939707](https://pubmed.ncbi.nlm.nih.gov/36939707/)
-* Zuberi SM, Wirrell E, Yozawitz E, et al. ILAE classification and definition of epilepsy syndromes with onset in neonates and infants. *Epilepsia.* 2022;63:1349–1397. [PubMed 35503712](https://pubmed.ncbi.nlm.nih.gov/35503712/)
+* Ebrahimi-Fakhari D, Saffari A, Westenberger A, Klein C. The evolving spectrum of _PRRT2_-associated paroxysmal diseases. _Brain._ 2015;138:3476–3495. [PubMed 26598493](https://pubmed.ncbi.nlm.nih.gov/26598493/)
+* Scorrano G, et al. Exploring epileptic phenotypes in _PRRT2_-related disorders. _Seizure._ 2024. [PubMed 38749256](https://pubmed.ncbi.nlm.nih.gov/38749256/)
+* Guerrero-López R, et al. Atypical course in individuals from Spanish families with benign familial infantile seizures and mutations in _PRRT2_. _Epilepsy Res._ 2014. [PubMed 25060993](https://pubmed.ncbi.nlm.nih.gov/25060993/)
+* Komar A, et al. Phenotypic spectrum of _PRRT2_-related epilepsy — international cohort. _Neurol Genet._ 2025. [PubMed 40401013](https://pubmed.ncbi.nlm.nih.gov/40401013/)
+* Clinical and neuroimaging features of _PRRT2_-related epilepsy in adult patients. 2024. [PubMed 41554218](https://pubmed.ncbi.nlm.nih.gov/41554218/)
+* Lee J, Kim YO, Lim BC, Lee J. _PRRT2_-positive self-limited infantile epilepsy. _Epilepsia Open._ 2023;8:436–443. [PubMed 36775847](https://pubmed.ncbi.nlm.nih.gov/36775847/)
+* Döring JH, Saffari A, Bast T, et al. The phenotypic spectrum of _PRRT2_-associated paroxysmal neurologic disorders in childhood. _Biomedicines._ 2020;8:456. [PubMed 33126500](https://pubmed.ncbi.nlm.nih.gov/33126500/)
+* Millevert C, Weckhuysen S; ILAE Genetics Commission. Self-limited familial epilepsy syndromes with onset in neonatal age and infancy. _Epileptic Disord._ 2023;25:445–453. [PubMed 36939707](https://pubmed.ncbi.nlm.nih.gov/36939707/)
+* Zuberi SM, Wirrell E, Yozawitz E, et al. ILAE classification and definition of epilepsy syndromes with onset in neonates and infants. _Epilepsia._ 2022;63:1349–1397. [PubMed 35503712](https://pubmed.ncbi.nlm.nih.gov/35503712/)
 * [OMIM — 605751, Seizures, Benign Familial Infantile, 2](https://omim.org/entry/605751)
 * [OMIM — 602066, Convulsions, Familial Infantile, with Paroxysmal Choreoathetosis (ICCA)](https://omim.org/entry/602066)
 
@@ -291,4 +289,4 @@ For the complete set of authoritative references, see [Official Resources](../re
 
 ***
 
-_This page is educational and does not provide medical advice. Medication and management decisions belong with your neurologist or epileptologist. See [Disclaimers & Legal](../resources/disclaimers.md)._
+_This page is educational and does not provide medical advice. Medication and management decisions belong with your neurologist or epileptologist. See_ [_Disclaimers & Legal_](../resources/disclaimers.md)_._
