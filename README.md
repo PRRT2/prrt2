@@ -34,51 +34,37 @@ layout:
 
 ***
 
-{% hint style="info" %}
-📱 On mobile? Tap ☰ in the top-left corner to browse all sections.
-{% endhint %}
-
-#### 🧭 Explore the Knowledge Base
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>Start here — the gene, how it works, and the sodium channel science, in plain language.</td><td></td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, dystonia, dysphonia, tics, and more — the full spectrum explained.</td><td></td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and how to track your symptoms.</td><td></td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr><tr><td><strong>📝 Treatments &#x26; Management</strong></td><td>Medications, therapies, and management strategies — organized by treatment and by condition.</td><td></td><td><a href="treatments/how-treatment-works.md">how-treatment-works.md</a></td></tr><tr><td><strong>🧪 Research</strong></td><td>Current literature, clinical trials, and future therapeutics.</td><td></td><td><a href="research/current-literature.md">current-literature.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our voice — deep dives on the issues that need more discussion than a reference page allows.</td><td></td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>🤝 Living with PRRT2</strong></td><td>Daily management, caregiver guidance, triggers, and real patient stories.</td><td></td><td><a href="living/daily-management.md">daily-management.md</a></td></tr><tr><td><strong>📚 Resources</strong></td><td>Frequently asked questions, a plain-language glossary, a guide to bring to your doctor, and trusted links.</td><td></td><td><a href="resources/faq.md">faq.md</a></td></tr><tr><td><strong>🔭 Exploring the Wider Spectrum</strong></td><td>Dysphonia, tics, and the emerging edges of the PRRT2 phenotype — where the science is still being written.</td><td></td><td><a href="wider-spectrum/README.md">README.md</a></td></tr></tbody></table>
+**A PRRT2 mutation can cause sudden attacks of abnormal movement, infant seizures, migraine, and more — and it's often mistaken for epilepsy, anxiety, or nothing at all.** This is the only knowledge base built for the full PRRT2 spectrum: real science in plain language, written by people who live with this gene.
 
 ***
 
-#### 🤝 Join the PRRT2 Foundation
+#### 🔓 Pre-Registry Now Open
 
 <figure><img src=".gitbook/assets/confirmed-mutation-banner.svg" alt="Confirmed PRRT2 mutation? You've found your people — become a member of the PRRT2 Foundation."></figure>
 
-Have a confirmed PRRT2 diagnosis? Signing up takes just a few minutes — **your name is never shared, only de-identified data.** Membership powers **research collaborations**, **new partnerships**, and **clinical trials**, and members are the **first to hear** as they open. Every person counted makes this community's voice harder to ignore.
+**Have a confirmed PRRT2 diagnosis?** Pre-registering takes a few minutes and makes you a member of the Foundation. **Your name is never shared — only de-identified data.**
 
-<a href="https://intake.prrt2.org" class="button primary">✋ Get Counted — Join the Foundation</a>
+This is Step 1. It reserves your place in the full clinical registry now in development, and every person counted makes this community harder to overlook when research funding, partnerships, and clinical trials are decided. Members hear about them first.
+
+<a href="https://intake.prrt2.org" class="button primary">✋ Get Counted — Pre-Register</a>
+
+_Not diagnosed yet? Start with_ [_how to get tested_](diagnosis/how-to-get-tested.md) _— then come back._
+
+***
+
+#### 🧭 Start Here
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 PRRT2 Gene Overview</strong></td><td>What the gene does, why it misfires, and what that actually means — in plain language.</td><td><a href="overview/introduction.md">introduction.md</a></td></tr><tr><td><strong>🧬 Associated Conditions</strong></td><td>PKD, BFIS, PED, dystonia, migraine, epilepsy — the full spectrum, explained.</td><td><a href="conditions/prrt2-spectrum.md">prrt2-spectrum.md</a></td></tr><tr><td><strong>🔬 Diagnosis &#x26; Genetic Testing</strong></td><td>How to get tested, what your results mean, and what to ask your doctor.</td><td><a href="diagnosis/how-to-get-tested.md">how-to-get-tested.md</a></td></tr></tbody></table>
+
+**Beyond the textbook:** dysphonia, tics, and the symptoms that get dismissed because they aren't in the standard case description — [we document the wider spectrum too](wider-spectrum/README.md), where the science is still being written.
 
 ***
 
-#### 🏛️ PRRT2 Gene Foundation
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our self-written articles — essays and lived-experience pieces, the Foundation's own voice, distinct from the clinical reference pages.</td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>📬 Newsletter</strong></td><td>Stay updated — Foundation news, research updates, and community milestones, straight to your inbox.</td><td><a href="https://newsletter.prrt2.org">https://newsletter.prrt2.org</a></td></tr></tbody></table>
-
-***
+#### 🏛️ The PRRT2 Foundation
 
 > **Our Mission:** The PRRT2 Foundation exists to do what a diagnosis alone cannot — explain this condition completely, connect the people living with it, forge the partnerships that accelerate research and expand access to testing, and build the technology that gives every patient a clinical voice.
 
-Whether you're a patient, a caregiver, a researcher, or a clinician encountering PRRT2 for the first time — this is a rigorously cited knowledge base built by people who live with this gene. Real science in plain language.
-
-***
-
-#### 🤝 You're Not Alone
-
-Living with a PRRT2 Gene Mutation isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
-
-**Two places to find us on Facebook:**
-
-🔒 **The Community** — our private group, where patients and families ask questions, share what they're going through, and connect with others who understand what this condition actually does to a life.
-
-{% embed url="http://facebook.com/groups/prrt2" %}
-
-🏛️ **The Foundation** — our official charity page, for announcements, research updates, and Foundation news.
-
-{% embed url="http://facebook.com/prrt2" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>📖 About — The Reality of PRRT2</strong></td><td>The story behind this site, who built it, why it exists, and what drives the Foundation's work.</td><td><a href="about.md">about.md</a></td></tr><tr><td><strong>✍️ Expressions</strong></td><td>Our own voice — essays and lived-experience pieces, distinct from the clinical reference pages.</td><td><a href="https://www.prrt2.org/expressions">https://www.prrt2.org/expressions</a></td></tr><tr><td><strong>📬 Newsletter</strong></td><td>Foundation news, research updates, and community milestones, straight to your inbox.</td><td><a href="https://newsletter.prrt2.org">https://newsletter.prrt2.org</a></td></tr></tbody></table>
 
 ***
 
@@ -94,7 +80,21 @@ A COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FR
 
 ***
 
-**Can't find what you're looking for?** The search bar above has AI built in, or click below to ask directly.
+#### 🤝 You're Not Alone
+
+Living with a PRRT2 mutation isn't only a scientific problem — it's the misdiagnoses, the unanswered questions, and the symptoms nobody could explain. You don't have to navigate it alone.
+
+🔒 **The Community** — our private group, where patients and families ask questions, share what they're going through, and connect with others who understand what this condition actually does to a life.
+
+{% embed url="http://facebook.com/groups/prrt2" %}
+
+🏛️ **The Foundation** — our official charity page, for announcements, research updates, and Foundation news.
+
+{% embed url="http://facebook.com/prrt2" %}
+
+***
+
+**Can't find what you're looking for?** On a phone, tap ☰ in the top-left corner to browse every section. The search bar above has AI built in — or click below to ask directly.
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
